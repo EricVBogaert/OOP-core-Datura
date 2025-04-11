@@ -1,0 +1,374 @@
+{
+  "concept": {
+    "id": "OOP-core-concept-2025",
+    "name": "Concept fondamental de programmation orientée objet",
+    "meta": {
+      "paradigm": "Smalltalk",
+      "version": "2.1"
+    },
+    "naming_conventions": {
+      "default": "kebab-case",
+      "language_specific": {
+        "python": {
+          "files": "snake_case",
+          "classes": "PascalCase",
+          "functions": "snake_case",
+          "constants": "SCREAMING_SNAKE_CASE",
+          "variables": "snake_case",
+          "magic_methods": "__double_underscore__"
+        },
+        "javascript": {
+          "files": "camelCase",
+          "classes": "PascalCase",
+          "functions": "camelCase",
+          "constants": "SCREAMING_SNAKE_CASE",
+          "variables": "camelCase",
+          "private_fields": "#privateField"
+        },
+        "java": {
+          "files": "PascalCase",
+          "classes": "PascalCase",
+          "methods": "camelCase",
+          "constants": "SCREAMING_SNAKE_CASE",
+          "variables": "camelCase",
+          "packages": "lowercase"
+        },
+        "css": {
+          "classes": "kebab-case",
+          "ids": "kebab-case",
+          "variables": "--kebab-case"
+        }
+      },
+      "special_prefixes": {
+        "get": {
+          "description": "Récupère une valeur",
+          "examples": ["getValue", "get_value", "GetValue"],
+          "usage_patterns": ["functions", "methods", "properties"]
+        },
+        "set": {
+          "description": "Définit une valeur",
+          "examples": ["setValue", "set_value", "SetValue"],
+          "usage_patterns": ["functions", "methods"]
+        },
+        "is": {
+          "description": "Vérifie une condition booléenne",
+          "examples": ["isValid", "is_active", "IsCompleted"],
+          "usage_patterns": ["functions", "methods", "properties"]
+        },
+        "has": {
+          "description": "Vérifie la présence d'une caractéristique",
+          "examples": ["hasPermission", "has_children", "HasAttributes"],
+          "usage_patterns": ["functions", "methods", "properties"]
+        },
+        "_": {
+          "description": "Indique un élément privé/protégé (Python, JavaScript)",
+          "examples": ["_internal_method", "_private_var"],
+          "usage_patterns": ["methods", "variables", "functions"]
+        },
+        "__": {
+          "description": "Indique un élément privé avec name mangling (Python)",
+          "examples": ["__very_private"],
+          "usage_patterns": ["methods", "variables"]
+        }
+      },
+      "concept_action_reaction": {
+        "description": "Convention pour nommer les identificateurs selon leur rôle conceptuel",
+        "examples": {
+          "kebab-case": "user-authenticate-validate",
+          "snake_case": "user_authenticate_validate",
+          "camelCase": "userAuthenticateValidate",
+          "PascalCase": "UserAuthenticateValidate"
+        },
+        "mapping": {
+          "concept": {
+            "description": "Domaine ou entité concernée",
+            "examples": ["user", "data", "file", "config"]
+          },
+          "action": {
+            "description": "Opération principale effectuée",
+            "examples": ["create", "transform", "validate", "parse"]
+          },
+          "reaction": {
+            "description": "Résultat ou comportement attendu",
+            "examples": ["display", "store", "alert", "normalize"]
+          }
+        }
+      }
+    },
+    "tagging_system": {
+      "structure": {
+        "hierarchical": true,
+        "graph": true,
+        "faceted": true
+      },
+      "tag_types": {
+        "domain": {
+          "description": "Domaine de connaissance",
+          "examples": ["informatique", "biologie", "mathématiques"],
+          "hierarchical": true
+        },
+        "concept": {
+          "description": "Concept fondamental",
+          "examples": ["objet", "héritage", "polymorphisme"],
+          "graph": true
+        },
+        "technology": {
+          "description": "Technologie ou framework",
+          "examples": ["python", "react", "tensorflow"],
+          "hierarchical": false
+        },
+        "skill_level": {
+          "description": "Niveau de compétence requis",
+          "examples": ["débutant", "intermédiaire", "avancé"],
+          "hierarchical": true,
+          "ordered": true
+        },
+        "purpose": {
+          "description": "Objectif du document",
+          "examples": ["tutoriel", "référence", "exemple"],
+          "faceted": true
+        }
+      },
+      "relationships": {
+        "parent_of": {
+          "description": "Tag parent dans une hiérarchie",
+          "inverse": "child_of",
+          "examples": ["informatique parent_of programmation"]
+        },
+        "child_of": {
+          "description": "Tag enfant dans une hiérarchie",
+          "inverse": "parent_of",
+          "examples": ["python child_of programmation"]
+        },
+        "related_to": {
+          "description": "Tags conceptuellement liés",
+          "symmetric": true,
+          "examples": ["héritage related_to polymorphisme"]
+        },
+        "prerequisite_for": {
+          "description": "Tag prérequis pour comprendre un autre",
+          "inverse": "requires",
+          "examples": ["variables prerequisite_for fonctions"]
+        },
+        "requires": {
+          "description": "Tag qui nécessite la compréhension d'un autre",
+          "inverse": "prerequisite_for",
+          "examples": ["héritage requires classes"]
+        }
+      },
+      "indexing": {
+        "mechanisms": [
+          "index_inversé",
+          "graphe_de_connaissance",
+          "index_vectoriel"
+        ],
+        "dynamic_update": true,
+        "search_algorithms": [
+          "recherche_exacte",
+          "recherche_floue",
+          "recherche_sémantique",
+          "recherche_hiérarchique"
+        ]
+      },
+      "visualization": {
+        "graph_view": true,
+        "tree_view": true,
+        "tag_cloud": true,
+        "hierarchical_tree": true
+      }
+    },
+    "template_system": {
+      "formats": {
+        "python": {
+          "extensions": [".py", ".pyi", ".pyx"],
+          "header_format": "docstring",
+          "special_fields": [
+            "__annotations__",
+            "__all__",
+            "__author__",
+            "__version__"
+          ]
+        },
+        "javascript": {
+          "extensions": [".js", ".jsx", ".ts", ".tsx"],
+          "header_format": "jsdoc",
+          "special_fields": [
+            "@author",
+            "@param",
+            "@returns",
+            "@version"
+          ]
+        },
+        "markdown": {
+          "extensions": [".md", ".mdx"],
+          "header_format": "yaml_frontmatter",
+          "special_fields": [
+            "title",
+            "date",
+            "tags",
+            "author"
+          ]
+        },
+        "json": {
+          "extensions": [".json"],
+          "header_format": "none",
+          "schema_validation": true
+        }
+      },
+      "claude_api_templates": {
+        "concept_explanation": {
+          "description": "Template pour expliquer un concept",
+          "prompt": "Explique le concept de {concept} de manière {style} pour un niveau {niveau}.\n\nInclude la définition, des exemples pratiques, et les connections avec d'autres concepts comme {related_concepts}.",
+          "parameters": ["concept", "style", "niveau", "related_concepts"],
+          "output_format": "markdown"
+        },
+        "code_generation": {
+          "description": "Template pour générer du code",
+          "prompt": "Génère un exemple de code {language} illustrant {concept} avec une approche {style}. Le code doit être {complexity} et inclure des commentaires détaillés.\n\nLe contexte d'utilisation est: {context}",
+          "parameters": ["language", "concept", "style", "complexity", "context"],
+          "output_format": "code_block"
+        },
+        "concept_comparison": {
+          "description": "Template pour comparer des concepts",
+          "prompt": "Compare les concepts suivants: {concept_a} et {concept_b}.\n\nAnalyse leurs similitudes, différences, cas d'usage appropriés, et avantages/inconvénients relatifs. Présente ta comparaison sous forme de {format}.",
+          "parameters": ["concept_a", "concept_b", "format"],
+          "output_format": "structured"
+        },
+        "error_explanation": {
+          "description": "Template pour expliquer une erreur",
+          "prompt": "Explique cette erreur {language}:\n\n```\n{error_message}\n```\n\nFournis une explication claire de la cause, des solutions possibles, et comment éviter cette erreur à l'avenir.",
+          "parameters": ["language", "error_message"],
+          "output_format": "steps"
+        }
+      },
+      "document_templates": {
+        "tutorial": {
+          "sections": [
+            "Introduction",
+            "Prérequis",
+            "Installation",
+            "Utilisation de base",
+            "Exemples avancés",
+            "Dépannage",
+            "Ressources supplémentaires"
+          ],
+          "metadata": [
+            "title",
+            "author",
+            "date",
+            "version",
+            "difficulty",
+            "time_required",
+            "tags"
+          ]
+        },
+        "api_reference": {
+          "sections": [
+            "Vue d'ensemble",
+            "Installation",
+            "Authentification",
+            "Points d'entrée",
+            "Modèles de données",
+            "Codes d'erreur",
+            "Exemples"
+          ],
+          "metadata": [
+            "title",
+            "version",
+            "base_url",
+            "auth_method",
+            "tags"
+          ]
+        },
+        "concept_explanation": {
+          "sections": [
+            "Définition",
+            "Contexte historique",
+            "Principes fondamentaux",
+            "Exemples pratiques",
+            "Applications",
+            "Concepts connexes",
+            "Ressources d'apprentissage"
+          ],
+          "metadata": [
+            "title",
+            "complexity",
+            "prerequisites",
+            "tags"
+          ]
+        }
+      }
+    },
+    "structure": {
+      "required": [
+        "id", "name", "tags", "context", "expertise", "domain"
+      ],
+      "optional": [
+        "application", "dependencies", "references", "authors", "history"
+      ],
+      "extensible": true,
+      "inheritance": {
+        "mechanism": "extension",
+        "overridable": ["tags", "context", "expertise", "domain", "application"]
+      }
+    },
+    "context_types": [
+      {
+        "name": "enseignement",
+        "description": "Contexte d'apprentissage formel ou informel",
+        "typical_tags": ["cours", "exercice", "tutoriel", "évaluation"]
+      },
+      {
+        "name": "recherche",
+        "description": "Contexte de recherche scientifique ou académique",
+        "typical_tags": ["analyse", "expérimentation", "publication", "revue"]
+      },
+      {
+        "name": "développement",
+        "description": "Contexte de développement logiciel",
+        "typical_tags": ["production", "prototype", "maintenance", "déploiement"]
+      },
+      {
+        "name": "industriel",
+        "description": "Applications industrielles ou commerciales",
+        "typical_tags": ["production", "optimisation", "monitoring", "analyse"]
+      }
+    ],
+    "expertise_levels": [
+      {
+        "name": "aucun",
+        "description": "Aucune connaissance préalable requise"
+      },
+      {
+        "name": "débutant",
+        "description": "Connaissances de base, introduction au domaine"
+      },
+      {
+        "name": "intermédiaire",
+        "description": "Compréhension des concepts fondamentaux établie"
+      },
+      {
+        "name": "avancé",
+        "description": "Maîtrise approfondie des concepts et techniques"
+      },
+      {
+        "name": "expert",
+        "description": "Expertise complète avec capacité d'innovation"
+      }
+    ],
+    "domain_taxonomy": {
+      "informatique": {
+        "subdomains": ["programmation", "algorithmes", "bases_données", "réseaux", "intelligence_artificielle"],
+        "related": ["mathématiques", "électronique"]
+      },
+      "sciences_biologiques": {
+        "subdomains": ["génétique", "biochimie", "microbiologie", "bio-informatique"],
+        "related": ["médecine", "chimie", "informatique"]
+      },
+      "mathématiques": {
+        "subdomains": ["algèbre", "analyse", "géométrie", "statistiques", "probabilités"],
+        "related": ["physique", "informatique", "économie"]
+      }
+    }
+  }
+}
