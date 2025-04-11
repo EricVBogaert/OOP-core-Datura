@@ -1,0 +1,98 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+concept_id: {{ concept_id }}
+{% if inherits_from %}inherits_from: {{ inherits_from }}{% endif %}
+title: {{ title }}
+version: {{ version|default('1.0.0') }}
+
+tags:
+{% for tag in tags %}    - {{ tag }}{% if tag_descriptions and tag in tag_descriptions %}    # {{ tag_descriptions[tag] }}{% endif %}
+{% endfor %}
+
+context:
+    primary: {{ context.primary|default('enseignement') }}
+{% if context.secondary %}    secondary: {{ context.secondary }}{% endif %}
+
+expertise:
+    required: {{ expertise.required|default('débutant') }}
+    target: {{ expertise.target|default('débutant') }}
+
+domain:
+    primary: {{ domain.primary }}
+{% if domain.subdomains %}    subdomains:
+{% for subdomain in domain.subdomains %}        - {{ subdomain }}
+{% endfor %}{% endif %}
+
+{% if application %}application:
+    type: {{ application.type }}
+{% if application.input %}    input: {{ application.input }}{% endif %}
+{% if application.output %}    output: {{ application.output }}{% endif %}
+{% endif %}
+
+{% if dependencies %}dependencies:
+{% for dependency in dependencies %}    - {{ dependency }}
+{% endfor %}{% endif %}
+
+{% if authors %}authors:
+{% for author in authors %}    - name: {{ author.name }}
+{% if author.affiliation %}      affiliation: {{ author.affiliation }}{% endif %}
+{% if author.email %}      email: {{ author.email }}{% endif %}
+{% endfor %}{% endif %}
+
+{% if references %}references:
+{% for reference in references %}    - {% for key, value in reference.items() %}{{ key }}: {{ value }}
+      {% endfor %}
+{% endfor %}{% endif %}
+
+created_at: {{ created_at|default(now.strftime('%Y-%m-%d')) }}
+updated_at: {{ updated_at|default(now.strftime('%Y-%m-%d')) }}
+
+{{ description|wordwrap(80) }}
+"""
+
+{% if imports %}
+{% for import_line in imports %}{{ import_line }}
+{% endfor %}
+{% endif %}
+
+{% if script_type == 'hello_world' %}
+# Un simple programme Hello World
+print("{{ hello_message|default('Hello, World!') }}")
+print("{{ secondary_message|default('Python est facile à utiliser!') }}")
+
+{% elif script_type == 'data_analysis' %}
+def main():
+    """Fonction principale d'analyse de données."""
+    # Charger les données
+    data = pd.read_csv("{{ data_path }}")
+
+    # Afficher les informations de base
+    print("Aperçu des données:")
+    print(data.head())
+    print("\nStatistiques descriptives:")
+    print(data.describe())
+
+    # Analyse spécifique au domaine
+    {% if analysis_code %}
+    {{ analysis_code|indent(4) }}
+    {% else %}
+    # Ajouter votre code d'analyse spécifique ici
+    pass
+    {% endif %}
+
+if __name__ == "__main__":
+    main()
+{% else %}
+# Contenu principal du script
+{% if main_code %}
+{{ main_code }}
+{% else %}
+def main():
+    """Fonction principale du programme."""
+    print("{{ main_message|default('Programme exécuté avec succès!') }}")
+
+if __name__ == "__main__":
+    main()
+{% endif %}
+{% endif %}

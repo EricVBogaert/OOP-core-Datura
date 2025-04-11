@@ -1,0 +1,97 @@
+{
+  "concept": {
+    "id": "OOP-core-concept-2025",
+    "name": "Concept fondamental de programmation orientée objet",
+    "meta": {
+      "paradigm": "Smalltalk",
+      "version": "2.0"
+    },
+    "attributes": {
+      "definitions": [
+        {
+          "language": "français",
+          "text": "Structure fondamentale pour la représentation des connaissances sous forme d'objets avec attributs et méthodes, permettant contextes multiples et polymorphisme sémantique.",
+          "source": "UCLouvain Knowledge Framework"
+        }
+      ]
+    },
+    "structure": {
+      "required": [
+        "id", "name", "tags", "context", "expertise", "domain"
+      ],
+      "optional": [
+        "application", "dependencies", "references", "authors", "history"
+      ],
+      "extensible": true,
+      "inheritance": {
+        "mechanism": "extension",
+        "overridable": ["tags", "context", "expertise", "domain", "application"]
+      }
+    },
+    "context_types": [
+      {
+        "name": "enseignement",
+        "description": "Contexte d'apprentissage formel ou informel",
+        "typical_tags": ["cours", "exercice", "tutoriel", "évaluation"]
+      },
+      {
+        "name": "recherche",
+        "description": "Contexte de recherche scientifique ou académique",
+        "typical_tags": ["analyse", "expérimentation", "publication", "revue"]
+      },
+      {
+        "name": "développement",
+        "description": "Contexte de développement logiciel",
+        "typical_tags": ["production", "prototype", "maintenance", "déploiement"]
+      },
+      {
+        "name": "industriel",
+        "description": "Applications industrielles ou commerciales",
+        "typical_tags": ["production", "optimisation", "monitoring", "analyse"]
+      }
+    ],
+    "expertise_levels": [
+      {
+        "name": "aucun",
+        "description": "Aucune connaissance préalable requise"
+      },
+      {
+        "name": "débutant",
+        "description": "Connaissances de base, introduction au domaine"
+      },
+      {
+        "name": "intermédiaire",
+        "description": "Compréhension des concepts fondamentaux établie"
+      },
+      {
+        "name": "avancé",
+        "description": "Maîtrise approfondie des concepts et techniques"
+      },
+      {
+        "name": "expert",
+        "description": "Expertise complète avec capacité d'innovation"
+      }
+    ],
+    "domain_taxonomy": {
+      "informatique": {
+        "subdomains": ["programmation", "algorithmes", "bases_données", "réseaux", "intelligence_artificielle"],
+        "related": ["mathématiques", "électronique"]
+      },
+      "sciences_biologiques": {
+        "subdomains": ["génétique", "biochimie", "microbiologie", "bio-informatique"],
+        "related": ["médecine", "chimie", "informatique"]
+      },
+      "mathématiques": {
+        "subdomains": ["algèbre", "analyse", "géométrie", "statistiques", "probabilités"],
+        "related": ["physique", "informatique", "économie"]
+      }
+      // D'autres domaines pourraient être ajoutés
+    },
+    "template_system": {
+      "base_directory": "${CONCEPT_HOME}/templates",
+      "formats": ["python", "json", "markdown", "latex"],
+      "validation": "jsonschema",
+      "generation_mechanism": "jinja2"
+    }
+  }
+}
