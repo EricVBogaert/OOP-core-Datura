@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d396c08-36f8-4318-97c0-9bab1497f845" name="Changes" comment="Initialisation du projet (api key alert)">
-      <change afterPath="$PROJECT_DIR$/OOP-core/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-core/history/Révision du Concept de Base OOP.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-core/history/Révision du Concept de Base OOP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-core/history/Structure du système de templates.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-core/history/a7919f44-7441-4dd1-bf2b-86f1d32c883b/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-core/history/create_document.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-core/history/create_document.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-core/history/simple_script.py.jinja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-core/history/structure de header.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_activation_scripts.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_activation_scripts.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744362740425</updated>
       <workItem from="1744362741498" duration="8220000" />
-      <workItem from="1744371148953" duration="6451000" />
+      <workItem from="1744371148953" duration="8211000" />
     </task>
     <task id="LOCAL-00001" summary="Initialisation du projet">
       <option name="closed" value="true" />
@@ -115,7 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744365539650</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initialisation du projet (api key alert)">
+      <option name="closed" value="true" />
+      <created>1744380040508</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744380040508</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initialisation du projet (api key alert)">
+      <option name="closed" value="true" />
+      <created>1744380102435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744380102435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +131,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
