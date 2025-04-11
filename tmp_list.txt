@@ -1,0 +1,2000 @@
+.:
+total 33K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .venv
+-rw-r--r-- 1 pr409 197609  542 avr.  11 11:14 main.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:39 bin
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:39 lib
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:39 doc
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:40 viewer
+drwxr-xr-x 1 pr409 197609    0 avr.  11 14:18 OOP-core
+-rw-r--r-- 1 pr409 197609 6,5K avr.  11 14:32 create_activation_scripts.ipynb
+-rw-r--r-- 1 pr409 197609 3,1K avr.  11 14:33 create_activation_scripts.md
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:25 .git
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:42 .idea
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:51 .
+-rw-r--r-- 1 pr409 197609    0 avr.  11 16:51 tmp_list.txt
+
+./.venv:
+total 14K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 Include
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 Lib
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  42 avr.  11 11:12 .gitignore
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 Scripts
+-rw-r--r-- 1 pr409 197609 247 avr.  11 11:12 pyvenv.cfg
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:51 ..
+
+./.venv/Include:
+total 4,0K
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 ..
+
+./.venv/Lib:
+total 8,0K
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 ..
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 site-packages
+
+./.venv/Lib/site-packages:
+total 46K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609   18 avr.  11 11:12 _virtualenv.pth
+-rw-r--r-- 1 pr409 197609 4,4K avr.  11 11:12 _virtualenv.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 wheel
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 wheel-0.41.2.dist-info
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 wheel-0.41.2.virtualenv
+-rw-r--r-- 1 pr409 197609  151 avr.  11 11:12 distutils-precedence.pth
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 pkg_resources
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 setuptools
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 setuptools-68.2.0.dist-info
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 setuptools-68.2.0.virtualenv
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 pip
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 pip-23.2.1.dist-info
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 pip-23.2.1.virtualenv
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 __pycache__
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 _distutils_hack
+
+./.venv/Lib/site-packages/wheel:
+total 71K
+-rw-r--r-- 1 pr409 197609  21K avr.  11 11:12 bdist_wheel.py
+-rw-r--r-- 1 pr409 197609  16K avr.  11 11:12 macosx_libfile.py
+-rw-r--r-- 1 pr409 197609 5,8K avr.  11 11:12 metadata.py
+-rw-r--r-- 1 pr409 197609  621 avr.  11 11:12 util.py
+-rw-r--r-- 1 pr409 197609 7,6K avr.  11 11:12 wheelfile.py
+-rw-r--r-- 1 pr409 197609  746 avr.  11 11:12 _setuptools_logging.py
+-rw-r--r-- 1 pr409 197609   59 avr.  11 11:12 __init__.py
+-rw-r--r-- 1 pr409 197609  455 avr.  11 11:12 __main__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 cli
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 vendored
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/wheel/cli:
+total 44K
+-rw-r--r-- 1 pr409 197609 9,3K avr.  11 11:12 convert.py
+-rw-r--r-- 1 pr409 197609 4,3K avr.  11 11:12 pack.py
+-rw-r--r-- 1 pr409 197609 5,1K avr.  11 11:12 tags.py
+-rw-r--r-- 1 pr409 197609 1021 avr.  11 11:12 unpack.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 4,2K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/wheel/vendored:
+total 9,0K
+drwxr-xr-x 1 pr409 197609  0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 16 avr.  11 11:12 vendor.txt
+-rw-r--r-- 1 pr409 197609  0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609  0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609  0 avr.  11 11:12 packaging
+
+./.venv/Lib/site-packages/wheel/vendored/packaging:
+total 144K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 8,0K avr.  11 11:12 markers.py
+-rw-r--r-- 1 pr409 197609 3,2K avr.  11 11:12 requirements.py
+-rw-r--r-- 1 pr409 197609  39K avr.  11 11:12 specifiers.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 tags.py
+-rw-r--r-- 1 pr409 197609 4,3K avr.  11 11:12 utils.py
+-rw-r--r-- 1 pr409 197609  16K avr.  11 11:12 version.py
+-rw-r--r-- 1 pr409 197609 3,2K avr.  11 11:12 _elffile.py
+-rw-r--r-- 1 pr409 197609 8,7K avr.  11 11:12 _manylinux.py
+-rw-r--r-- 1 pr409 197609 2,5K avr.  11 11:12 _musllinux.py
+-rw-r--r-- 1 pr409 197609 9,2K avr.  11 11:12 _parser.py
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 _structures.py
+-rw-r--r-- 1 pr409 197609 5,1K avr.  11 11:12 _tokenizer.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/wheel-0.41.2.dist-info:
+total 27K
+-rw-r--r-- 1 pr409 197609  104 avr.  11 11:12 entry_points.txt
+-rw-r--r-- 1 pr409 197609    5 avr.  11 11:12 INSTALLER
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 LICENSE.txt
+-rw-r--r-- 1 pr409 197609 2,2K avr.  11 11:12 METADATA
+-rw-r--r-- 1 pr409 197609 4,2K avr.  11 11:12 RECORD
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609   81 avr.  11 11:12 WHEEL
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pkg_resources:
+total 116K
+-rw-r--r-- 1 pr409 197609 107K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 extern
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 _vendor
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pkg_resources/extern:
+total 4,0K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 2,4K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pkg_resources/_vendor:
+total 108K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609  79K avr.  11 11:12 typing_extensions.py
+-rw-r--r-- 1 pr409 197609 8,3K avr.  11 11:12 zipp.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 importlib_resources
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 jaraco
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 more_itertools
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 packaging
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 platformdirs
+
+./.venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources:
+total 53K
+-rw-r--r-- 1 pr409 197609 5,1K avr.  11 11:12 abc.py
+-rw-r--r-- 1 pr409 197609 3,5K avr.  11 11:12 readers.py
+-rw-r--r-- 1 pr409 197609 2,6K avr.  11 11:12 simple.py
+-rw-r--r-- 1 pr409 197609 4,4K avr.  11 11:12 _adapters.py
+-rw-r--r-- 1 pr409 197609 5,4K avr.  11 11:12 _common.py
+-rw-r--r-- 1 pr409 197609 2,9K avr.  11 11:12 _compat.py
+-rw-r--r-- 1 pr409 197609  884 avr.  11 11:12 _itertools.py
+-rw-r--r-- 1 pr409 197609 3,4K avr.  11 11:12 _legacy.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  506 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pkg_resources/_vendor/jaraco:
+total 28K
+-rw-r--r-- 1 pr409 197609 7,3K avr.  11 11:12 context.py
+-rw-r--r-- 1 pr409 197609  15K avr.  11 11:12 functools.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 text
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pkg_resources/_vendor/jaraco/text:
+total 16K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 16K avr.  11 11:12 __init__.py
+
+./.venv/Lib/site-packages/pkg_resources/_vendor/more_itertools:
+total 165K
+-rw-r--r-- 1 pr409 197609 132K avr.  11 11:12 more.py
+-rw-r--r-- 1 pr409 197609  25K avr.  11 11:12 recipes.py
+-rw-r--r-- 1 pr409 197609  148 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pkg_resources/_vendor/packaging:
+total 173K
+-rw-r--r-- 1 pr409 197609 8,1K avr.  11 11:12 markers.py
+-rw-r--r-- 1 pr409 197609  17K avr.  11 11:12 metadata.py
+-rw-r--r-- 1 pr409 197609 3,3K avr.  11 11:12 requirements.py
+-rw-r--r-- 1 pr409 197609  39K avr.  11 11:12 specifiers.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 tags.py
+-rw-r--r-- 1 pr409 197609 4,3K avr.  11 11:12 utils.py
+-rw-r--r-- 1 pr409 197609  16K avr.  11 11:12 version.py
+-rw-r--r-- 1 pr409 197609 3,2K avr.  11 11:12 _elffile.py
+-rw-r--r-- 1 pr409 197609 8,8K avr.  11 11:12 _manylinux.py
+-rw-r--r-- 1 pr409 197609 2,5K avr.  11 11:12 _musllinux.py
+-rw-r--r-- 1 pr409 197609  10K avr.  11 11:12 _parser.py
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 _structures.py
+-rw-r--r-- 1 pr409 197609 5,2K avr.  11 11:12 _tokenizer.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  501 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pkg_resources/_vendor/platformdirs:
+total 61K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 4,0K avr.  11 11:12 android.py
+-rw-r--r-- 1 pr409 197609 4,8K avr.  11 11:12 api.py
+-rw-r--r-- 1 pr409 197609 2,6K avr.  11 11:12 macos.py
+-rw-r--r-- 1 pr409 197609 6,8K avr.  11 11:12 unix.py
+-rw-r--r-- 1 pr409 197609  160 avr.  11 11:12 version.py
+-rw-r--r-- 1 pr409 197609 6,5K avr.  11 11:12 windows.py
+-rw-r--r-- 1 pr409 197609  13K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 __main__.py
+
+./.venv/Lib/site-packages/setuptools:
+total 488K
+-rw-r--r-- 1 pr409 197609 7,2K avr.  11 11:12 archive_util.py
+-rw-r--r-- 1 pr409 197609  20K avr.  11 11:12 build_meta.py
+-rwxr-xr-x 1 pr409 197609  12K avr.  11 11:12 cli-32.exe
+-rwxr-xr-x 1 pr409 197609  14K avr.  11 11:12 cli-64.exe
+-rwxr-xr-x 1 pr409 197609  14K avr.  11 11:12 cli-arm64.exe
+-rwxr-xr-x 1 pr409 197609  12K avr.  11 11:12 cli.exe
+-rw-r--r-- 1 pr409 197609 5,4K avr.  11 11:12 depends.py
+-rw-r--r-- 1 pr409 197609  936 avr.  11 11:12 dep_util.py
+-rw-r--r-- 1 pr409 197609  21K avr.  11 11:12 discovery.py
+-rw-r--r-- 1 pr409 197609  38K avr.  11 11:12 dist.py
+-rw-r--r-- 1 pr409 197609 2,5K avr.  11 11:12 errors.py
+-rw-r--r-- 1 pr409 197609 5,5K avr.  11 11:12 extension.py
+-rw-r--r-- 1 pr409 197609 4,8K avr.  11 11:12 glob.py
+-rwxr-xr-x 1 pr409 197609  12K avr.  11 11:12 gui-32.exe
+-rwxr-xr-x 1 pr409 197609  14K avr.  11 11:12 gui-64.exe
+-rwxr-xr-x 1 pr409 197609  14K avr.  11 11:12 gui-arm64.exe
+-rwxr-xr-x 1 pr409 197609  12K avr.  11 11:12 gui.exe
+-rw-r--r-- 1 pr409 197609 4,9K avr.  11 11:12 installer.py
+-rw-r--r-- 1 pr409 197609  812 avr.  11 11:12 launch.py
+-rw-r--r-- 1 pr409 197609 1,3K avr.  11 11:12 logging.py
+-rw-r--r-- 1 pr409 197609 4,7K avr.  11 11:12 monkey.py
+-rw-r--r-- 1 pr409 197609  47K avr.  11 11:12 msvc.py
+-rw-r--r-- 1 pr409 197609 3,1K avr.  11 11:12 namespaces.py
+-rw-r--r-- 1 pr409 197609  38K avr.  11 11:12 package_index.py
+-rw-r--r-- 1 pr409 197609  330 avr.  11 11:12 py312compat.py
+-rw-r--r-- 1 pr409 197609  15K avr.  11 11:12 sandbox.py
+-rw-r--r-- 1 pr409 197609  218 avr.  11 11:12 script (dev).tmpl
+-rw-r--r-- 1 pr409 197609  138 avr.  11 11:12 script.tmpl
+-rw-r--r-- 1 pr409 197609  941 avr.  11 11:12 unicode_utils.py
+-rw-r--r-- 1 pr409 197609  161 avr.  11 11:12 version.py
+-rw-r--r-- 1 pr409 197609 3,7K avr.  11 11:12 warnings.py
+-rw-r--r-- 1 pr409 197609 8,5K avr.  11 11:12 wheel.py
+-rw-r--r-- 1 pr409 197609  719 avr.  11 11:12 windows_support.py
+-rw-r--r-- 1 pr409 197609 8,7K avr.  11 11:12 _core_metadata.py
+-rw-r--r-- 1 pr409 197609 2,2K avr.  11 11:12 _entry_points.py
+-rw-r--r-- 1 pr409 197609 2,4K avr.  11 11:12 _imp.py
+-rw-r--r-- 1 pr409 197609 1,5K avr.  11 11:12 _importlib.py
+-rw-r--r-- 1 pr409 197609  675 avr.  11 11:12 _itertools.py
+-rw-r--r-- 1 pr409 197609 4,0K avr.  11 11:12 _normalization.py
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 _path.py
+-rw-r--r-- 1 pr409 197609  882 avr.  11 11:12 _reqs.py
+-rw-r--r-- 1 pr409 197609 9,0K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 command
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 config
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 extern
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 _distutils
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 _vendor
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/setuptools/command:
+total 340K
+-rw-r--r-- 1 pr409 197609 2,4K avr.  11 11:12 alias.py
+-rw-r--r-- 1 pr409 197609  17K avr.  11 11:12 bdist_egg.py
+-rw-r--r-- 1 pr409 197609 1,3K avr.  11 11:12 bdist_rpm.py
+-rw-r--r-- 1 pr409 197609 6,7K avr.  11 11:12 build.py
+-rw-r--r-- 1 pr409 197609 4,3K avr.  11 11:12 build_clib.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 build_ext.py
+-rw-r--r-- 1 pr409 197609  15K avr.  11 11:12 build_py.py
+-rw-r--r-- 1 pr409 197609 6,6K avr.  11 11:12 develop.py
+-rw-r--r-- 1 pr409 197609 4,2K avr.  11 11:12 dist_info.py
+-rw-r--r-- 1 pr409 197609  85K avr.  11 11:12 easy_install.py
+-rw-r--r-- 1 pr409 197609  33K avr.  11 11:12 editable_wheel.py
+-rw-r--r-- 1 pr409 197609  26K avr.  11 11:12 egg_info.py
+-rw-r--r-- 1 pr409 197609 5,5K avr.  11 11:12 install.py
+-rw-r--r-- 1 pr409 197609 2,1K avr.  11 11:12 install_egg_info.py
+-rw-r--r-- 1 pr409 197609 3,8K avr.  11 11:12 install_lib.py
+-rw-r--r-- 1 pr409 197609 2,4K avr.  11 11:12 install_scripts.py
+-rw-r--r-- 1 pr409 197609  628 avr.  11 11:12 launcher manifest.xml
+-rw-r--r-- 1 pr409 197609  468 avr.  11 11:12 register.py
+-rw-r--r-- 1 pr409 197609 2,1K avr.  11 11:12 rotate.py
+-rw-r--r-- 1 pr409 197609  657 avr.  11 11:12 saveopts.py
+-rw-r--r-- 1 pr409 197609 7,0K avr.  11 11:12 sdist.py
+-rw-r--r-- 1 pr409 197609 4,9K avr.  11 11:12 setopt.py
+-rw-r--r-- 1 pr409 197609 8,0K avr.  11 11:12 test.py
+-rw-r--r-- 1 pr409 197609  462 avr.  11 11:12 upload.py
+-rw-r--r-- 1 pr409 197609 7,6K avr.  11 11:12 upload_docs.py
+-rw-r--r-- 1 pr409 197609 4,2K avr.  11 11:12 _requirestxt.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  396 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/setuptools/config:
+total 108K
+-rw-r--r-- 1 pr409 197609  17K avr.  11 11:12 expand.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 pyprojecttoml.py
+-rw-r--r-- 1 pr409 197609  26K avr.  11 11:12 setupcfg.py
+-rw-r--r-- 1 pr409 197609  14K avr.  11 11:12 _apply_pyprojecttoml.py
+-rw-r--r-- 1 pr409 197609 1,5K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 _validate_pyproject
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/setuptools/config/_validate_pyproject:
+total 316K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 error_reporting.py
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 extra_validations.py
+-rw-r--r-- 1 pr409 197609 1,6K avr.  11 11:12 fastjsonschema_exceptions.py
+-rw-r--r-- 1 pr409 197609 269K avr.  11 11:12 fastjsonschema_validations.py
+-rw-r--r-- 1 pr409 197609 9,0K avr.  11 11:12 formats.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 __init__.py
+
+./.venv/Lib/site-packages/setuptools/extern:
+total 16K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 2,5K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/setuptools/_distutils:
+total 474K
+-rw-r--r-- 1 pr409 197609 8,4K avr.  11 11:12 archive_util.py
+-rw-r--r-- 1 pr409 197609  15K avr.  11 11:12 bcppcompiler.py
+-rw-r--r-- 1 pr409 197609  48K avr.  11 11:12 ccompiler.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 cmd.py
+-rw-r--r-- 1 pr409 197609 4,8K avr.  11 11:12 config.py
+-rw-r--r-- 1 pr409 197609 9,2K avr.  11 11:12 core.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 cygwinccompiler.py
+-rw-r--r-- 1 pr409 197609  139 avr.  11 11:12 debug.py
+-rw-r--r-- 1 pr409 197609 3,4K avr.  11 11:12 dep_util.py
+-rw-r--r-- 1 pr409 197609 7,9K avr.  11 11:12 dir_util.py
+-rw-r--r-- 1 pr409 197609  49K avr.  11 11:12 dist.py
+-rw-r--r-- 1 pr409 197609 3,6K avr.  11 11:12 errors.py
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 extension.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 fancy_getopt.py
+-rw-r--r-- 1 pr409 197609  14K avr.  11 11:12 filelist.py
+-rw-r--r-- 1 pr409 197609 8,1K avr.  11 11:12 file_util.py
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 log.py
+-rw-r--r-- 1 pr409 197609  30K avr.  11 11:12 msvc9compiler.py
+-rw-r--r-- 1 pr409 197609  24K avr.  11 11:12 msvccompiler.py
+-rw-r--r-- 1 pr409 197609  217 avr.  11 11:12 py38compat.py
+-rw-r--r-- 1 pr409 197609  639 avr.  11 11:12 py39compat.py
+-rw-r--r-- 1 pr409 197609 3,5K avr.  11 11:12 spawn.py
+-rw-r--r-- 1 pr409 197609  19K avr.  11 11:12 sysconfig.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 text_file.py
+-rw-r--r-- 1 pr409 197609  16K avr.  11 11:12 unixccompiler.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 util.py
+-rw-r--r-- 1 pr409 197609  13K avr.  11 11:12 version.py
+-rw-r--r-- 1 pr409 197609 5,1K avr.  11 11:12 versionpredicate.py
+-rw-r--r-- 1 pr409 197609 5,2K avr.  11 11:12 _collections.py
+-rw-r--r-- 1 pr409 197609  411 avr.  11 11:12 _functools.py
+-rw-r--r-- 1 pr409 197609   43 avr.  11 11:12 _log.py
+-rw-r--r-- 1 pr409 197609  239 avr.  11 11:12 _macos_compat.py
+-rw-r--r-- 1 pr409 197609  20K avr.  11 11:12 _msvccompiler.py
+-rw-r--r-- 1 pr409 197609  359 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 command
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/setuptools/_distutils/command:
+total 265K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 5,3K avr.  11 11:12 bdist.py
+-rw-r--r-- 1 pr409 197609 4,6K avr.  11 11:12 bdist_dumb.py
+-rw-r--r-- 1 pr409 197609  22K avr.  11 11:12 bdist_rpm.py
+-rw-r--r-- 1 pr409 197609 5,5K avr.  11 11:12 build.py
+-rw-r--r-- 1 pr409 197609 7,6K avr.  11 11:12 build_clib.py
+-rw-r--r-- 1 pr409 197609  31K avr.  11 11:12 build_ext.py
+-rw-r--r-- 1 pr409 197609  17K avr.  11 11:12 build_py.py
+-rw-r--r-- 1 pr409 197609 5,5K avr.  11 11:12 build_scripts.py
+-rw-r--r-- 1 pr409 197609 4,8K avr.  11 11:12 check.py
+-rw-r--r-- 1 pr409 197609 2,6K avr.  11 11:12 clean.py
+-rw-r--r-- 1 pr409 197609  13K avr.  11 11:12 config.py
+-rw-r--r-- 1 pr409 197609  30K avr.  11 11:12 install.py
+-rw-r--r-- 1 pr409 197609 2,7K avr.  11 11:12 install_data.py
+-rw-r--r-- 1 pr409 197609 2,8K avr.  11 11:12 install_egg_info.py
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 install_headers.py
+-rw-r--r-- 1 pr409 197609 8,3K avr.  11 11:12 install_lib.py
+-rw-r--r-- 1 pr409 197609 1,9K avr.  11 11:12 install_scripts.py
+-rw-r--r-- 1 pr409 197609  672 avr.  11 11:12 py37compat.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 register.py
+-rw-r--r-- 1 pr409 197609  19K avr.  11 11:12 sdist.py
+-rw-r--r-- 1 pr409 197609 7,4K avr.  11 11:12 upload.py
+-rw-r--r-- 1 pr409 197609 1,6K avr.  11 11:12 _framework_compat.py
+-rw-r--r-- 1 pr409 197609  430 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/setuptools/_vendor:
+total 144K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609  15K avr.  11 11:12 ordered_set.py
+-rw-r--r-- 1 pr409 197609  86K avr.  11 11:12 typing_extensions.py
+-rw-r--r-- 1 pr409 197609 8,3K avr.  11 11:12 zipp.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 importlib_metadata
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 importlib_resources
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 jaraco
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 more_itertools
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 packaging
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 tomli
+
+./.venv/Lib/site-packages/setuptools/_vendor/importlib_metadata:
+total 68K
+-rw-r--r-- 1 pr409 197609 2,4K avr.  11 11:12 _adapters.py
+-rw-r--r-- 1 pr409 197609  743 avr.  11 11:12 _collections.py
+-rw-r--r-- 1 pr409 197609 1,9K avr.  11 11:12 _compat.py
+-rw-r--r-- 1 pr409 197609 2,9K avr.  11 11:12 _functools.py
+-rw-r--r-- 1 pr409 197609 2,1K avr.  11 11:12 _itertools.py
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 _meta.py
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 _py39compat.py
+-rw-r--r-- 1 pr409 197609 2,2K avr.  11 11:12 _text.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  26K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/setuptools/_vendor/importlib_resources:
+total 53K
+-rw-r--r-- 1 pr409 197609 5,1K avr.  11 11:12 abc.py
+-rw-r--r-- 1 pr409 197609 3,5K avr.  11 11:12 readers.py
+-rw-r--r-- 1 pr409 197609 2,6K avr.  11 11:12 simple.py
+-rw-r--r-- 1 pr409 197609 4,4K avr.  11 11:12 _adapters.py
+-rw-r--r-- 1 pr409 197609 5,4K avr.  11 11:12 _common.py
+-rw-r--r-- 1 pr409 197609 2,9K avr.  11 11:12 _compat.py
+-rw-r--r-- 1 pr409 197609  884 avr.  11 11:12 _itertools.py
+-rw-r--r-- 1 pr409 197609 3,4K avr.  11 11:12 _legacy.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  506 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/setuptools/_vendor/jaraco:
+total 28K
+-rw-r--r-- 1 pr409 197609 7,3K avr.  11 11:12 context.py
+-rw-r--r-- 1 pr409 197609  15K avr.  11 11:12 functools.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 text
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/setuptools/_vendor/jaraco/text:
+total 16K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 16K avr.  11 11:12 __init__.py
+
+./.venv/Lib/site-packages/setuptools/_vendor/more_itertools:
+total 137K
+-rw-r--r-- 1 pr409 197609 116K avr.  11 11:12 more.py
+-rw-r--r-- 1 pr409 197609  16K avr.  11 11:12 recipes.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609   82 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/setuptools/_vendor/packaging:
+total 173K
+-rw-r--r-- 1 pr409 197609 8,1K avr.  11 11:12 markers.py
+-rw-r--r-- 1 pr409 197609  17K avr.  11 11:12 metadata.py
+-rw-r--r-- 1 pr409 197609 3,3K avr.  11 11:12 requirements.py
+-rw-r--r-- 1 pr409 197609  39K avr.  11 11:12 specifiers.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 tags.py
+-rw-r--r-- 1 pr409 197609 4,3K avr.  11 11:12 utils.py
+-rw-r--r-- 1 pr409 197609  16K avr.  11 11:12 version.py
+-rw-r--r-- 1 pr409 197609 3,2K avr.  11 11:12 _elffile.py
+-rw-r--r-- 1 pr409 197609 8,8K avr.  11 11:12 _manylinux.py
+-rw-r--r-- 1 pr409 197609 2,5K avr.  11 11:12 _musllinux.py
+-rw-r--r-- 1 pr409 197609  10K avr.  11 11:12 _parser.py
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 _structures.py
+-rw-r--r-- 1 pr409 197609 5,2K avr.  11 11:12 _tokenizer.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  501 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/setuptools/_vendor/tomli:
+total 34K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609  23K avr.  11 11:12 _parser.py
+-rw-r--r-- 1 pr409 197609 2,9K avr.  11 11:12 _re.py
+-rw-r--r-- 1 pr409 197609  254 avr.  11 11:12 _types.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  396 avr.  11 11:12 __init__.py
+
+./.venv/Lib/site-packages/setuptools-68.2.0.dist-info:
+total 63K
+-rw-r--r-- 1 pr409 197609 2,7K avr.  11 11:12 entry_points.txt
+-rw-r--r-- 1 pr409 197609    5 avr.  11 11:12 INSTALLER
+-rw-r--r-- 1 pr409 197609 1023 avr.  11 11:12 LICENSE
+-rw-r--r-- 1 pr409 197609 6,2K avr.  11 11:12 METADATA
+-rw-r--r-- 1 pr409 197609  35K avr.  11 11:12 RECORD
+-rw-r--r-- 1 pr409 197609   41 avr.  11 11:12 top_level.txt
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609   92 avr.  11 11:12 WHEEL
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip:
+total 26K
+-rw-r--r-- 1 pr409 197609  286 avr.  11 11:12 py.typed
+-rw-r--r-- 1 pr409 197609  357 avr.  11 11:12 __init__.py
+-rw-r--r-- 1 pr409 197609  854 avr.  11 11:12 __main__.py
+-rw-r--r-- 1 pr409 197609 1,5K avr.  11 11:12 __pip-runner__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 _internal
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 _vendor
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal:
+total 150K
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 build_env.py
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 cache.py
+-rw-r--r-- 1 pr409 197609  14K avr.  11 11:12 configuration.py
+-rw-r--r-- 1 pr409 197609  24K avr.  11 11:12 exceptions.py
+-rw-r--r-- 1 pr409 197609  340 avr.  11 11:12 main.py
+-rw-r--r-- 1 pr409 197609 7,0K avr.  11 11:12 pyproject.py
+-rw-r--r-- 1 pr409 197609 8,0K avr.  11 11:12 self_outdated_check.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 wheel_builder.py
+-rw-r--r-- 1 pr409 197609  573 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 cli
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 commands
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 distributions
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 index
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 locations
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 metadata
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 models
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 network
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 operations
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 req
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 resolution
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 utils
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 vcs
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/cli:
+total 122K
+-rw-r--r-- 1 pr409 197609 6,6K avr.  11 11:12 autocompletion.py
+-rw-r--r-- 1 pr409 197609 8,6K avr.  11 11:12 base_command.py
+-rw-r--r-- 1 pr409 197609  30K avr.  11 11:12 cmdoptions.py
+-rw-r--r-- 1 pr409 197609  774 avr.  11 11:12 command_context.py
+-rw-r--r-- 1 pr409 197609 2,8K avr.  11 11:12 main.py
+-rw-r--r-- 1 pr409 197609 4,3K avr.  11 11:12 main_parser.py
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 parser.py
+-rw-r--r-- 1 pr409 197609 2,0K avr.  11 11:12 progress_bars.py
+-rw-r--r-- 1 pr409 197609  19K avr.  11 11:12 req_command.py
+-rw-r--r-- 1 pr409 197609 5,0K avr.  11 11:12 spinners.py
+-rw-r--r-- 1 pr409 197609  116 avr.  11 11:12 status_codes.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  132 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/commands:
+total 156K
+-rw-r--r-- 1 pr409 197609 7,5K avr.  11 11:12 cache.py
+-rw-r--r-- 1 pr409 197609 1,8K avr.  11 11:12 check.py
+-rw-r--r-- 1 pr409 197609 3,9K avr.  11 11:12 completion.py
+-rw-r--r-- 1 pr409 197609 9,6K avr.  11 11:12 configuration.py
+-rw-r--r-- 1 pr409 197609 6,5K avr.  11 11:12 debug.py
+-rw-r--r-- 1 pr409 197609 5,3K avr.  11 11:12 download.py
+-rw-r--r-- 1 pr409 197609 3,1K avr.  11 11:12 freeze.py
+-rw-r--r-- 1 pr409 197609 1,7K avr.  11 11:12 hash.py
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 help.py
+-rw-r--r-- 1 pr409 197609 4,7K avr.  11 11:12 index.py
+-rw-r--r-- 1 pr409 197609 3,2K avr.  11 11:12 inspect.py
+-rw-r--r-- 1 pr409 197609  29K avr.  11 11:12 install.py
+-rw-r--r-- 1 pr409 197609  13K avr.  11 11:12 list.py
+-rw-r--r-- 1 pr409 197609 5,6K avr.  11 11:12 search.py
+-rw-r--r-- 1 pr409 197609 6,3K avr.  11 11:12 show.py
+-rw-r--r-- 1 pr409 197609 3,8K avr.  11 11:12 uninstall.py
+-rw-r--r-- 1 pr409 197609 6,4K avr.  11 11:12 wheel.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 3,8K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/distributions:
+total 32K
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 base.py
+-rw-r--r-- 1 pr409 197609  729 avr.  11 11:12 installed.py
+-rw-r--r-- 1 pr409 197609 6,4K avr.  11 11:12 sdist.py
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 wheel.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  858 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/index:
+total 73K
+-rw-r--r-- 1 pr409 197609  17K avr.  11 11:12 collector.py
+-rw-r--r-- 1 pr409 197609  37K avr.  11 11:12 package_finder.py
+-rw-r--r-- 1 pr409 197609 6,5K avr.  11 11:12 sources.py
+-rw-r--r-- 1 pr409 197609   30 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/locations:
+total 44K
+-rw-r--r-- 1 pr409 197609 2,5K avr.  11 11:12 base.py
+-rw-r--r-- 1 pr409 197609 6,0K avr.  11 11:12 _distutils.py
+-rw-r--r-- 1 pr409 197609 7,5K avr.  11 11:12 _sysconfig.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  16K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/metadata:
+total 60K
+-rw-r--r-- 1 pr409 197609  25K avr.  11 11:12 base.py
+-rw-r--r-- 1 pr409 197609 9,6K avr.  11 11:12 pkg_resources.py
+-rw-r--r-- 1 pr409 197609 2,6K avr.  11 11:12 _json.py
+-rw-r--r-- 1 pr409 197609 4,2K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 importlib
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/metadata/importlib:
+total 25K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 1,9K avr.  11 11:12 _compat.py
+-rw-r--r-- 1 pr409 197609 8,0K avr.  11 11:12 _dists.py
+-rw-r--r-- 1 pr409 197609 7,3K avr.  11 11:12 _envs.py
+-rw-r--r-- 1 pr409 197609  107 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/pip/_internal/models:
+total 81K
+-rw-r--r-- 1 pr409 197609  990 avr.  11 11:12 candidate.py
+-rw-r--r-- 1 pr409 197609 6,8K avr.  11 11:12 direct_url.py
+-rw-r--r-- 1 pr409 197609 2,5K avr.  11 11:12 format_control.py
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 index.py
+-rw-r--r-- 1 pr409 197609 2,6K avr.  11 11:12 installation_report.py
+-rw-r--r-- 1 pr409 197609  21K avr.  11 11:12 link.py
+-rw-r--r-- 1 pr409 197609  738 avr.  11 11:12 scheme.py
+-rw-r--r-- 1 pr409 197609 4,6K avr.  11 11:12 search_scope.py
+-rw-r--r-- 1 pr409 197609 1,9K avr.  11 11:12 selection_prefs.py
+-rw-r--r-- 1 pr409 197609 3,8K avr.  11 11:12 target_python.py
+-rw-r--r-- 1 pr409 197609 3,6K avr.  11 11:12 wheel.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609   63 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/network:
+total 81K
+-rw-r--r-- 1 pr409 197609  21K avr.  11 11:12 auth.py
+-rw-r--r-- 1 pr409 197609 2,1K avr.  11 11:12 cache.py
+-rw-r--r-- 1 pr409 197609 6,0K avr.  11 11:12 download.py
+-rw-r--r-- 1 pr409 197609 7,5K avr.  11 11:12 lazy_wheel.py
+-rw-r--r-- 1 pr409 197609  19K avr.  11 11:12 session.py
+-rw-r--r-- 1 pr409 197609 4,0K avr.  11 11:12 utils.py
+-rw-r--r-- 1 pr409 197609 1,8K avr.  11 11:12 xmlrpc.py
+-rw-r--r-- 1 pr409 197609   50 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/operations:
+total 64K
+-rw-r--r-- 1 pr409 197609 6,7K avr.  11 11:12 check.py
+-rw-r--r-- 1 pr409 197609 9,6K avr.  11 11:12 freeze.py
+-rw-r--r-- 1 pr409 197609  29K avr.  11 11:12 prepare.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 build
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 install
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/operations/build:
+total 40K
+-rw-r--r-- 1 pr409 197609 4,1K avr.  11 11:12 build_tracker.py
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 metadata.py
+-rw-r--r-- 1 pr409 197609 1,5K avr.  11 11:12 metadata_editable.py
+-rw-r--r-- 1 pr409 197609 2,2K avr.  11 11:12 metadata_legacy.py
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 wheel.py
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 wheel_editable.py
+-rw-r--r-- 1 pr409 197609 3,0K avr.  11 11:12 wheel_legacy.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/operations/install:
+total 37K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 1,3K avr.  11 11:12 editable_legacy.py
+-rw-r--r-- 1 pr409 197609  27K avr.  11 11:12 wheel.py
+-rw-r--r-- 1 pr409 197609   51 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/pip/_internal/req:
+total 124K
+-rw-r--r-- 1 pr409 197609  17K avr.  11 11:12 constructors.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 req_file.py
+-rw-r--r-- 1 pr409 197609  33K avr.  11 11:12 req_install.py
+-rw-r--r-- 1 pr409 197609 4,6K avr.  11 11:12 req_set.py
+-rw-r--r-- 1 pr409 197609  25K avr.  11 11:12 req_uninstall.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 2,7K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/resolution:
+total 9,0K
+-rw-r--r-- 1 pr409 197609 583 avr.  11 11:12 base.py
+-rw-r--r-- 1 pr409 197609   0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 legacy
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 resolvelib
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/resolution/legacy:
+total 24K
+-rw-r--r-- 1 pr409 197609 24K avr.  11 11:12 resolver.py
+-rw-r--r-- 1 pr409 197609   0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/resolution/resolvelib:
+total 104K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 5,1K avr.  11 11:12 base.py
+-rw-r--r-- 1 pr409 197609  19K avr.  11 11:12 candidates.py
+-rw-r--r-- 1 pr409 197609  28K avr.  11 11:12 factory.py
+-rw-r--r-- 1 pr409 197609 5,6K avr.  11 11:12 found_candidates.py
+-rw-r--r-- 1 pr409 197609 9,6K avr.  11 11:12 provider.py
+-rw-r--r-- 1 pr409 197609 3,1K avr.  11 11:12 reporter.py
+-rw-r--r-- 1 pr409 197609 5,4K avr.  11 11:12 requirements.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 resolver.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/pip/_internal/utils:
+total 185K
+-rw-r--r-- 1 pr409 197609 1,7K avr.  11 11:12 appdirs.py
+-rw-r--r-- 1 pr409 197609 1,9K avr.  11 11:12 compat.py
+-rw-r--r-- 1 pr409 197609 5,3K avr.  11 11:12 compatibility_tags.py
+-rw-r--r-- 1 pr409 197609  242 avr.  11 11:12 datetime.py
+-rw-r--r-- 1 pr409 197609 3,6K avr.  11 11:12 deprecation.py
+-rw-r--r-- 1 pr409 197609 3,2K avr.  11 11:12 direct_url_helpers.py
+-rw-r--r-- 1 pr409 197609 2,1K avr.  11 11:12 egg_link.py
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 encoding.py
+-rw-r--r-- 1 pr409 197609 3,0K avr.  11 11:12 entrypoints.py
+-rw-r--r-- 1 pr409 197609 5,1K avr.  11 11:12 filesystem.py
+-rw-r--r-- 1 pr409 197609  716 avr.  11 11:12 filetypes.py
+-rw-r--r-- 1 pr409 197609 3,1K avr.  11 11:12 glibc.py
+-rw-r--r-- 1 pr409 197609 5,0K avr.  11 11:12 hashes.py
+-rw-r--r-- 1 pr409 197609  795 avr.  11 11:12 inject_securetransport.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 logging.py
+-rw-r--r-- 1 pr409 197609  22K avr.  11 11:12 misc.py
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 models.py
+-rw-r--r-- 1 pr409 197609 2,1K avr.  11 11:12 packaging.py
+-rw-r--r-- 1 pr409 197609 4,4K avr.  11 11:12 setuptools_build.py
+-rw-r--r-- 1 pr409 197609 9,0K avr.  11 11:12 subprocess.py
+-rw-r--r-- 1 pr409 197609 7,6K avr.  11 11:12 temp_dir.py
+-rw-r--r-- 1 pr409 197609 8,7K avr.  11 11:12 unpacking.py
+-rw-r--r-- 1 pr409 197609 1,8K avr.  11 11:12 urls.py
+-rw-r--r-- 1 pr409 197609 3,4K avr.  11 11:12 virtualenv.py
+-rw-r--r-- 1 pr409 197609 4,5K avr.  11 11:12 wheel.py
+-rw-r--r-- 1 pr409 197609 3,3K avr.  11 11:12 _jaraco_text.py
+-rw-r--r-- 1 pr409 197609 1015 avr.  11 11:12 _log.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_internal/vcs:
+total 77K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 3,5K avr.  11 11:12 bazaar.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 git.py
+-rw-r--r-- 1 pr409 197609 5,2K avr.  11 11:12 mercurial.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 subversion.py
+-rw-r--r-- 1 pr409 197609  23K avr.  11 11:12 versioncontrol.py
+-rw-r--r-- 1 pr409 197609  596 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/pip/_vendor:
+total 253K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609  34K avr.  11 11:12 six.py
+-rw-r--r-- 1 pr409 197609 109K avr.  11 11:12 typing_extensions.py
+-rw-r--r-- 1 pr409 197609  475 avr.  11 11:12 vendor.txt
+-rw-r--r-- 1 pr409 197609 4,9K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 cachecontrol
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 certifi
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 chardet
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 colorama
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 distlib
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 distro
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 idna
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 msgpack
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 packaging
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 pkg_resources
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 platformdirs
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 pygments
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 pyparsing
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 pyproject_hooks
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 requests
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 resolvelib
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 rich
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 tenacity
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 tomli
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 urllib3
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 webencodings
+
+./.venv/Lib/site-packages/pip/_vendor/cachecontrol:
+total 73K
+-rw-r--r-- 1 pr409 197609 5,0K avr.  11 11:12 adapter.py
+-rw-r--r-- 1 pr409 197609 1,5K avr.  11 11:12 cache.py
+-rw-r--r-- 1 pr409 197609  778 avr.  11 11:12 compat.py
+-rw-r--r-- 1 pr409 197609  17K avr.  11 11:12 controller.py
+-rw-r--r-- 1 pr409 197609 3,9K avr.  11 11:12 filewrapper.py
+-rw-r--r-- 1 pr409 197609 4,1K avr.  11 11:12 heuristics.py
+-rw-r--r-- 1 pr409 197609 7,0K avr.  11 11:12 serialize.py
+-rw-r--r-- 1 pr409 197609  774 avr.  11 11:12 wrapper.py
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 _cmd.py
+-rw-r--r-- 1 pr409 197609  465 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 caches
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/cachecontrol/caches:
+total 17K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 5,2K avr.  11 11:12 file_cache.py
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 redis_cache.py
+-rw-r--r-- 1 pr409 197609  242 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/pip/_vendor/certifi:
+total 290K
+-rw-r--r-- 1 pr409 197609 273K avr.  11 11:12 cacert.pem
+-rw-r--r-- 1 pr409 197609 4,2K avr.  11 11:12 core.py
+-rw-r--r-- 1 pr409 197609   94 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  255 avr.  11 11:12 __main__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/chardet:
+total 1,2M
+-rw-r--r-- 1 pr409 197609  31K avr.  11 11:12 big5freq.py
+-rw-r--r-- 1 pr409 197609 1,8K avr.  11 11:12 big5prober.py
+-rw-r--r-- 1 pr409 197609 9,8K avr.  11 11:12 chardistribution.py
+-rw-r--r-- 1 pr409 197609 3,9K avr.  11 11:12 charsetgroupprober.py
+-rw-r--r-- 1 pr409 197609 5,3K avr.  11 11:12 charsetprober.py
+-rw-r--r-- 1 pr409 197609 3,7K avr.  11 11:12 codingstatemachine.py
+-rw-r--r-- 1 pr409 197609  542 avr.  11 11:12 codingstatemachinedict.py
+-rw-r--r-- 1 pr409 197609 1,9K avr.  11 11:12 cp949prober.py
+-rw-r--r-- 1 pr409 197609 1,7K avr.  11 11:12 enums.py
+-rw-r--r-- 1 pr409 197609 4,0K avr.  11 11:12 escprober.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 escsm.py
+-rw-r--r-- 1 pr409 197609 3,9K avr.  11 11:12 eucjpprober.py
+-rw-r--r-- 1 pr409 197609  14K avr.  11 11:12 euckrfreq.py
+-rw-r--r-- 1 pr409 197609 1,8K avr.  11 11:12 euckrprober.py
+-rw-r--r-- 1 pr409 197609  37K avr.  11 11:12 euctwfreq.py
+-rw-r--r-- 1 pr409 197609 1,8K avr.  11 11:12 euctwprober.py
+-rw-r--r-- 1 pr409 197609  21K avr.  11 11:12 gb2312freq.py
+-rw-r--r-- 1 pr409 197609 1,8K avr.  11 11:12 gb2312prober.py
+-rw-r--r-- 1 pr409 197609  15K avr.  11 11:12 hebrewprober.py
+-rw-r--r-- 1 pr409 197609  26K avr.  11 11:12 jisfreq.py
+-rw-r--r-- 1 pr409 197609  42K avr.  11 11:12 johabfreq.py
+-rw-r--r-- 1 pr409 197609 1,8K avr.  11 11:12 johabprober.py
+-rw-r--r-- 1 pr409 197609  27K avr.  11 11:12 jpcntx.py
+-rw-r--r-- 1 pr409 197609 103K avr.  11 11:12 langbulgarianmodel.py
+-rw-r--r-- 1 pr409 197609  97K avr.  11 11:12 langgreekmodel.py
+-rw-r--r-- 1 pr409 197609  96K avr.  11 11:12 langhebrewmodel.py
+-rw-r--r-- 1 pr409 197609  99K avr.  11 11:12 langhungarianmodel.py
+-rw-r--r-- 1 pr409 197609 126K avr.  11 11:12 langrussianmodel.py
+-rw-r--r-- 1 pr409 197609 101K avr.  11 11:12 langthaimodel.py
+-rw-r--r-- 1 pr409 197609  94K avr.  11 11:12 langturkishmodel.py
+-rw-r--r-- 1 pr409 197609 5,3K avr.  11 11:12 latin1prober.py
+-rw-r--r-- 1 pr409 197609 6,0K avr.  11 11:12 macromanprober.py
+-rw-r--r-- 1 pr409 197609 3,7K avr.  11 11:12 mbcharsetprober.py
+-rw-r--r-- 1 pr409 197609 2,1K avr.  11 11:12 mbcsgroupprober.py
+-rw-r--r-- 1 pr409 197609  30K avr.  11 11:12 mbcssm.py
+-rw-r--r-- 1 pr409 197609  402 avr.  11 11:12 resultdict.py
+-rw-r--r-- 1 pr409 197609 6,3K avr.  11 11:12 sbcharsetprober.py
+-rw-r--r-- 1 pr409 197609 4,1K avr.  11 11:12 sbcsgroupprober.py
+-rw-r--r-- 1 pr409 197609 4,0K avr.  11 11:12 sjisprober.py
+-rw-r--r-- 1 pr409 197609  15K avr.  11 11:12 universaldetector.py
+-rw-r--r-- 1 pr409 197609 8,4K avr.  11 11:12 utf1632prober.py
+-rw-r--r-- 1 pr409 197609 2,8K avr.  11 11:12 utf8prober.py
+-rw-r--r-- 1 pr409 197609  244 avr.  11 11:12 version.py
+-rw-r--r-- 1 pr409 197609 4,7K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 cli
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 metadata
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/chardet/cli:
+total 20K
+-rw-r--r-- 1 pr409 197609 3,2K avr.  11 11:12 chardetect.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/chardet/metadata:
+total 32K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 14K avr.  11 11:12 languages.py
+-rw-r--r-- 1 pr409 197609   0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/pip/_vendor/colorama:
+total 49K
+-rw-r--r-- 1 pr409 197609 2,5K avr.  11 11:12 ansi.py
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 ansitowin32.py
+-rw-r--r-- 1 pr409 197609 3,3K avr.  11 11:12 initialise.py
+-rw-r--r-- 1 pr409 197609 6,1K avr.  11 11:12 win32.py
+-rw-r--r-- 1 pr409 197609 7,0K avr.  11 11:12 winterm.py
+-rw-r--r-- 1 pr409 197609  266 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 tests
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/colorama/tests:
+total 45K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 ansitowin32_test.py
+-rw-r--r-- 1 pr409 197609 2,8K avr.  11 11:12 ansi_test.py
+-rw-r--r-- 1 pr409 197609 6,6K avr.  11 11:12 initialise_test.py
+-rw-r--r-- 1 pr409 197609 1,9K avr.  11 11:12 isatty_test.py
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 utils.py
+-rw-r--r-- 1 pr409 197609 3,7K avr.  11 11:12 winterm_test.py
+-rw-r--r-- 1 pr409 197609   75 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/pip/_vendor/distlib:
+total 1,2M
+-rw-r--r-- 1 pr409 197609  41K avr.  11 11:12 compat.py
+-rw-r--r-- 1 pr409 197609  51K avr.  11 11:12 database.py
+-rw-r--r-- 1 pr409 197609  21K avr.  11 11:12 index.py
+-rw-r--r-- 1 pr409 197609  51K avr.  11 11:12 locators.py
+-rw-r--r-- 1 pr409 197609  15K avr.  11 11:12 manifest.py
+-rw-r--r-- 1 pr409 197609 5,0K avr.  11 11:12 markers.py
+-rw-r--r-- 1 pr409 197609  39K avr.  11 11:12 metadata.py
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 resources.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 scripts.py
+-rwxr-xr-x 1 pr409 197609  96K avr.  11 11:12 t32.exe
+-rwxr-xr-x 1 pr409 197609 179K avr.  11 11:12 t64-arm.exe
+-rwxr-xr-x 1 pr409 197609 106K avr.  11 11:12 t64.exe
+-rw-r--r-- 1 pr409 197609  65K avr.  11 11:12 util.py
+-rw-r--r-- 1 pr409 197609  23K avr.  11 11:12 version.py
+-rwxr-xr-x 1 pr409 197609  90K avr.  11 11:12 w32.exe
+-rwxr-xr-x 1 pr409 197609 165K avr.  11 11:12 w64-arm.exe
+-rwxr-xr-x 1 pr409 197609 100K avr.  11 11:12 w64.exe
+-rw-r--r-- 1 pr409 197609  43K avr.  11 11:12 wheel.py
+-rw-r--r-- 1 pr409 197609  581 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/distro:
+total 61K
+-rwxr-xr-x 1 pr409 197609 49K avr.  11 11:12 distro.py
+-rw-r--r-- 1 pr409 197609 981 avr.  11 11:12 __init__.py
+-rw-r--r-- 1 pr409 197609  64 avr.  11 11:12 __main__.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/idna:
+total 286K
+-rw-r--r-- 1 pr409 197609 3,3K avr.  11 11:12 codec.py
+-rw-r--r-- 1 pr409 197609  321 avr.  11 11:12 compat.py
+-rw-r--r-- 1 pr409 197609  13K avr.  11 11:12 core.py
+-rw-r--r-- 1 pr409 197609  44K avr.  11 11:12 idnadata.py
+-rw-r--r-- 1 pr409 197609 1,9K avr.  11 11:12 intranges.py
+-rw-r--r-- 1 pr409 197609   21 avr.  11 11:12 package_data.py
+-rw-r--r-- 1 pr409 197609 202K avr.  11 11:12 uts46data.py
+-rw-r--r-- 1 pr409 197609  849 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/msgpack:
+total 56K
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 exceptions.py
+-rw-r--r-- 1 pr409 197609 6,0K avr.  11 11:12 ext.py
+-rw-r--r-- 1 pr409 197609  34K avr.  11 11:12 fallback.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/packaging:
+total 129K
+-rw-r--r-- 1 pr409 197609 8,3K avr.  11 11:12 markers.py
+-rw-r--r-- 1 pr409 197609 4,6K avr.  11 11:12 requirements.py
+-rw-r--r-- 1 pr409 197609  30K avr.  11 11:12 specifiers.py
+-rw-r--r-- 1 pr409 197609  16K avr.  11 11:12 tags.py
+-rw-r--r-- 1 pr409 197609 4,2K avr.  11 11:12 utils.py
+-rw-r--r-- 1 pr409 197609  15K avr.  11 11:12 version.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 _manylinux.py
+-rw-r--r-- 1 pr409 197609 4,3K avr.  11 11:12 _musllinux.py
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 _structures.py
+-rw-r--r-- 1 pr409 197609  661 avr.  11 11:12 __about__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  497 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/pkg_resources:
+total 112K
+-rw-r--r-- 1 pr409 197609 107K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/platformdirs:
+total 77K
+-rw-r--r-- 1 pr409 197609 7,1K avr.  11 11:12 android.py
+-rw-r--r-- 1 pr409 197609 7,0K avr.  11 11:12 api.py
+-rw-r--r-- 1 pr409 197609 3,6K avr.  11 11:12 macos.py
+-rw-r--r-- 1 pr409 197609 8,7K avr.  11 11:12 unix.py
+-rw-r--r-- 1 pr409 197609  160 avr.  11 11:12 version.py
+-rw-r--r-- 1 pr409 197609 9,4K avr.  11 11:12 windows.py
+-rw-r--r-- 1 pr409 197609  20K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 1,5K avr.  11 11:12 __main__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/pygments:
+total 209K
+-rw-r--r-- 1 pr409 197609  24K avr.  11 11:12 cmdline.py
+-rw-r--r-- 1 pr409 197609 1,7K avr.  11 11:12 console.py
+-rw-r--r-- 1 pr409 197609 1,9K avr.  11 11:12 filter.py
+-rw-r--r-- 1 pr409 197609 4,1K avr.  11 11:12 formatter.py
+-rw-r--r-- 1 pr409 197609  34K avr.  11 11:12 lexer.py
+-rw-r--r-- 1 pr409 197609  986 avr.  11 11:12 modeline.py
+-rw-r--r-- 1 pr409 197609 2,6K avr.  11 11:12 plugin.py
+-rw-r--r-- 1 pr409 197609 3,0K avr.  11 11:12 regexopt.py
+-rw-r--r-- 1 pr409 197609 3,1K avr.  11 11:12 scanner.py
+-rw-r--r-- 1 pr409 197609 6,8K avr.  11 11:12 sphinxext.py
+-rw-r--r-- 1 pr409 197609 6,2K avr.  11 11:12 style.py
+-rw-r--r-- 1 pr409 197609 6,1K avr.  11 11:12 token.py
+-rw-r--r-- 1 pr409 197609  62K avr.  11 11:12 unistring.py
+-rw-r--r-- 1 pr409 197609  10K avr.  11 11:12 util.py
+-rw-r--r-- 1 pr409 197609 3,0K avr.  11 11:12 __init__.py
+-rw-r--r-- 1 pr409 197609  353 avr.  11 11:12 __main__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 filters
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 formatters
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 lexers
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 styles
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/pygments/filters:
+total 44K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 40K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/pygments/formatters:
+total 172K
+-rw-r--r-- 1 pr409 197609 3,3K avr.  11 11:12 bbcode.py
+-rw-r--r-- 1 pr409 197609 5,0K avr.  11 11:12 groff.py
+-rw-r--r-- 1 pr409 197609  35K avr.  11 11:12 html.py
+-rw-r--r-- 1 pr409 197609  22K avr.  11 11:12 img.py
+-rw-r--r-- 1 pr409 197609 4,9K avr.  11 11:12 irc.py
+-rw-r--r-- 1 pr409 197609  19K avr.  11 11:12 latex.py
+-rw-r--r-- 1 pr409 197609 5,0K avr.  11 11:12 other.py
+-rw-r--r-- 1 pr409 197609 2,2K avr.  11 11:12 pangomarkup.py
+-rw-r--r-- 1 pr409 197609 4,9K avr.  11 11:12 rtf.py
+-rw-r--r-- 1 pr409 197609 7,2K avr.  11 11:12 svg.py
+-rw-r--r-- 1 pr409 197609 4,6K avr.  11 11:12 terminal.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 terminal256.py
+-rw-r--r-- 1 pr409 197609 4,1K avr.  11 11:12 _mapping.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 5,3K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/pygments/lexers:
+total 144K
+-rw-r--r-- 1 pr409 197609 53K avr.  11 11:12 python.py
+-rw-r--r-- 1 pr409 197609 71K avr.  11 11:12 _mapping.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 12K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/pygments/styles:
+total 8,0K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 3,7K avr.  11 11:12 __init__.py
+
+./.venv/Lib/site-packages/pip/_vendor/pyparsing:
+total 384K
+-rw-r--r-- 1 pr409 197609 6,5K avr.  11 11:12 actions.py
+-rw-r--r-- 1 pr409 197609  14K avr.  11 11:12 common.py
+-rw-r--r-- 1 pr409 197609 220K avr.  11 11:12 core.py
+-rw-r--r-- 1 pr409 197609 9,3K avr.  11 11:12 exceptions.py
+-rw-r--r-- 1 pr409 197609  38K avr.  11 11:12 helpers.py
+-rw-r--r-- 1 pr409 197609  27K avr.  11 11:12 results.py
+-rw-r--r-- 1 pr409 197609  14K avr.  11 11:12 testing.py
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 unicode.py
+-rw-r--r-- 1 pr409 197609 8,5K avr.  11 11:12 util.py
+-rw-r--r-- 1 pr409 197609 9,0K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 diagram
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/pyparsing/diagram:
+total 28K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 24K avr.  11 11:12 __init__.py
+
+./.venv/Lib/site-packages/pip/_vendor/pyproject_hooks:
+total 18K
+-rw-r--r-- 1 pr409 197609 138 avr.  11 11:12 _compat.py
+-rw-r--r-- 1 pr409 197609 12K avr.  11 11:12 _impl.py
+-rw-r--r-- 1 pr409 197609 491 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 _in_process
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process:
+total 13K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 11K avr.  11 11:12 _in_process.py
+-rw-r--r-- 1 pr409 197609 546 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/pip/_vendor/requests:
+total 215K
+-rw-r--r-- 1 pr409 197609  20K avr.  11 11:12 adapters.py
+-rw-r--r-- 1 pr409 197609 6,3K avr.  11 11:12 api.py
+-rw-r--r-- 1 pr409 197609  10K avr.  11 11:12 auth.py
+-rwxr-xr-x 1 pr409 197609  575 avr.  11 11:12 certs.py
+-rw-r--r-- 1 pr409 197609 1,3K avr.  11 11:12 compat.py
+-rw-r--r-- 1 pr409 197609  19K avr.  11 11:12 cookies.py
+-rw-r--r-- 1 pr409 197609 3,8K avr.  11 11:12 exceptions.py
+-rw-r--r-- 1 pr409 197609 3,8K avr.  11 11:12 help.py
+-rw-r--r-- 1 pr409 197609  733 avr.  11 11:12 hooks.py
+-rw-r--r-- 1 pr409 197609  35K avr.  11 11:12 models.py
+-rw-r--r-- 1 pr409 197609  695 avr.  11 11:12 packages.py
+-rw-r--r-- 1 pr409 197609  30K avr.  11 11:12 sessions.py
+-rw-r--r-- 1 pr409 197609 4,2K avr.  11 11:12 status_codes.py
+-rw-r--r-- 1 pr409 197609 2,9K avr.  11 11:12 structures.py
+-rw-r--r-- 1 pr409 197609  33K avr.  11 11:12 utils.py
+-rw-r--r-- 1 pr409 197609 1,5K avr.  11 11:12 _internal_utils.py
+-rw-r--r-- 1 pr409 197609 5,1K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  435 avr.  11 11:12 __version__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/resolvelib:
+total 53K
+-rw-r--r-- 1 pr409 197609 5,8K avr.  11 11:12 providers.py
+-rw-r--r-- 1 pr409 197609 1,6K avr.  11 11:12 reporters.py
+-rw-r--r-- 1 pr409 197609  21K avr.  11 11:12 resolvers.py
+-rw-r--r-- 1 pr409 197609 4,9K avr.  11 11:12 structs.py
+-rw-r--r-- 1 pr409 197609  537 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 compat
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/resolvelib/compat:
+total 5,0K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 156 avr.  11 11:12 collections_abc.py
+-rw-r--r-- 1 pr409 197609   0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/pip/_vendor/rich:
+total 1,1M
+-rw-r--r-- 1 pr409 197609  890 avr.  11 11:12 abc.py
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 align.py
+-rw-r--r-- 1 pr409 197609 6,8K avr.  11 11:12 ansi.py
+-rw-r--r-- 1 pr409 197609 3,2K avr.  11 11:12 bar.py
+-rw-r--r-- 1 pr409 197609 9,7K avr.  11 11:12 box.py
+-rw-r--r-- 1 pr409 197609 4,5K avr.  11 11:12 cells.py
+-rw-r--r-- 1 pr409 197609  18K avr.  11 11:12 color.py
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 color_triplet.py
+-rw-r--r-- 1 pr409 197609 7,0K avr.  11 11:12 columns.py
+-rw-r--r-- 1 pr409 197609  97K avr.  11 11:12 console.py
+-rw-r--r-- 1 pr409 197609 1,3K avr.  11 11:12 constrain.py
+-rw-r--r-- 1 pr409 197609 5,4K avr.  11 11:12 containers.py
+-rw-r--r-- 1 pr409 197609 6,5K avr.  11 11:12 control.py
+-rw-r--r-- 1 pr409 197609 7,9K avr.  11 11:12 default_styles.py
+-rw-r--r-- 1 pr409 197609  972 avr.  11 11:12 diagnose.py
+-rw-r--r-- 1 pr409 197609 2,5K avr.  11 11:12 emoji.py
+-rw-r--r-- 1 pr409 197609  642 avr.  11 11:12 errors.py
+-rw-r--r-- 1 pr409 197609 2,5K avr.  11 11:12 filesize.py
+-rw-r--r-- 1 pr409 197609 1,7K avr.  11 11:12 file_proxy.py
+-rw-r--r-- 1 pr409 197609 9,4K avr.  11 11:12 highlighter.py
+-rw-r--r-- 1 pr409 197609 5,0K avr.  11 11:12 json.py
+-rw-r--r-- 1 pr409 197609 3,2K avr.  11 11:12 jupyter.py
+-rw-r--r-- 1 pr409 197609  14K avr.  11 11:12 layout.py
+-rw-r--r-- 1 pr409 197609  14K avr.  11 11:12 live.py
+-rw-r--r-- 1 pr409 197609 3,6K avr.  11 11:12 live_render.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 logging.py
+-rw-r--r-- 1 pr409 197609 8,1K avr.  11 11:12 markup.py
+-rw-r--r-- 1 pr409 197609 5,2K avr.  11 11:12 measure.py
+-rw-r--r-- 1 pr409 197609 4,9K avr.  11 11:12 padding.py
+-rw-r--r-- 1 pr409 197609  828 avr.  11 11:12 pager.py
+-rw-r--r-- 1 pr409 197609 3,4K avr.  11 11:12 palette.py
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 panel.py
+-rw-r--r-- 1 pr409 197609  36K avr.  11 11:12 pretty.py
+-rw-r--r-- 1 pr409 197609  59K avr.  11 11:12 progress.py
+-rw-r--r-- 1 pr409 197609 8,0K avr.  11 11:12 progress_bar.py
+-rw-r--r-- 1 pr409 197609  12K avr.  11 11:12 prompt.py
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 protocol.py
+-rw-r--r-- 1 pr409 197609  166 avr.  11 11:12 region.py
+-rw-r--r-- 1 pr409 197609 4,4K avr.  11 11:12 repr.py
+-rw-r--r-- 1 pr409 197609 4,5K avr.  11 11:12 rule.py
+-rw-r--r-- 1 pr409 197609 2,8K avr.  11 11:12 scope.py
+-rw-r--r-- 1 pr409 197609 1,6K avr.  11 11:12 screen.py
+-rw-r--r-- 1 pr409 197609  24K avr.  11 11:12 segment.py
+-rw-r--r-- 1 pr409 197609 4,3K avr.  11 11:12 spinner.py
+-rw-r--r-- 1 pr409 197609 4,4K avr.  11 11:12 status.py
+-rw-r--r-- 1 pr409 197609  27K avr.  11 11:12 style.py
+-rw-r--r-- 1 pr409 197609 1,3K avr.  11 11:12 styled.py
+-rw-r--r-- 1 pr409 197609  35K avr.  11 11:12 syntax.py
+-rw-r--r-- 1 pr409 197609  39K avr.  11 11:12 table.py
+-rw-r--r-- 1 pr409 197609 3,3K avr.  11 11:12 terminal_theme.py
+-rw-r--r-- 1 pr409 197609  45K avr.  11 11:12 text.py
+-rw-r--r-- 1 pr409 197609 3,7K avr.  11 11:12 theme.py
+-rw-r--r-- 1 pr409 197609  102 avr.  11 11:12 themes.py
+-rw-r--r-- 1 pr409 197609  29K avr.  11 11:12 traceback.py
+-rw-r--r-- 1 pr409 197609 9,0K avr.  11 11:12 tree.py
+-rw-r--r-- 1 pr409 197609 9,9K avr.  11 11:12 _cell_widths.py
+-rw-r--r-- 1 pr409 197609 137K avr.  11 11:12 _emoji_codes.py
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 _emoji_replace.py
+-rw-r--r-- 1 pr409 197609 2,1K avr.  11 11:12 _export_format.py
+-rw-r--r-- 1 pr409 197609  265 avr.  11 11:12 _extension.py
+-rw-r--r-- 1 pr409 197609  799 avr.  11 11:12 _fileno.py
+-rw-r--r-- 1 pr409 197609 9,5K avr.  11 11:12 _inspect.py
+-rw-r--r-- 1 pr409 197609 3,2K avr.  11 11:12 _log_render.py
+-rw-r--r-- 1 pr409 197609 1,3K avr.  11 11:12 _loop.py
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 _null_file.py
+-rw-r--r-- 1 pr409 197609 6,9K avr.  11 11:12 _palettes.py
+-rw-r--r-- 1 pr409 197609  423 avr.  11 11:12 _pick.py
+-rw-r--r-- 1 pr409 197609 5,4K avr.  11 11:12 _ratio.py
+-rw-r--r-- 1 pr409 197609  20K avr.  11 11:12 _spinners.py
+-rw-r--r-- 1 pr409 197609  351 avr.  11 11:12 _stack.py
+-rw-r--r-- 1 pr409 197609  417 avr.  11 11:12 _timer.py
+-rw-r--r-- 1 pr409 197609  23K avr.  11 11:12 _win32_console.py
+-rw-r--r-- 1 pr409 197609 1,9K avr.  11 11:12 _windows.py
+-rw-r--r-- 1 pr409 197609 2,8K avr.  11 11:12 _windows_renderer.py
+-rw-r--r-- 1 pr409 197609 1,8K avr.  11 11:12 _wrap.py
+-rw-r--r-- 1 pr409 197609 6,0K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 8,3K avr.  11 11:12 __main__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/tenacity:
+total 84K
+-rw-r--r-- 1 pr409 197609 1,7K avr.  11 11:12 after.py
+-rw-r--r-- 1 pr409 197609 1,6K avr.  11 11:12 before.py
+-rw-r--r-- 1 pr409 197609 2,4K avr.  11 11:12 before_sleep.py
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 nap.py
+-rw-r--r-- 1 pr409 197609 8,6K avr.  11 11:12 retry.py
+-rw-r--r-- 1 pr409 197609 3,1K avr.  11 11:12 stop.py
+-rw-r--r-- 1 pr409 197609 2,1K avr.  11 11:12 tornadoweb.py
+-rw-r--r-- 1 pr409 197609 7,9K avr.  11 11:12 wait.py
+-rw-r--r-- 1 pr409 197609 3,5K avr.  11 11:12 _asyncio.py
+-rw-r--r-- 1 pr409 197609 2,2K avr.  11 11:12 _utils.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  21K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/tomli:
+total 34K
+-rw-r--r-- 1 pr409 197609  23K avr.  11 11:12 _parser.py
+-rw-r--r-- 1 pr409 197609 2,9K avr.  11 11:12 _re.py
+-rw-r--r-- 1 pr409 197609  254 avr.  11 11:12 _types.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  396 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3:
+total 181K
+-rw-r--r-- 1 pr409 197609  20K avr.  11 11:12 connection.py
+-rw-r--r-- 1 pr409 197609  40K avr.  11 11:12 connectionpool.py
+-rw-r--r-- 1 pr409 197609 8,1K avr.  11 11:12 exceptions.py
+-rw-r--r-- 1 pr409 197609 8,4K avr.  11 11:12 fields.py
+-rw-r--r-- 1 pr409 197609 2,4K avr.  11 11:12 filepost.py
+-rw-r--r-- 1 pr409 197609  20K avr.  11 11:12 poolmanager.py
+-rw-r--r-- 1 pr409 197609 5,9K avr.  11 11:12 request.py
+-rw-r--r-- 1 pr409 197609  30K avr.  11 11:12 response.py
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 _collections.py
+-rw-r--r-- 1 pr409 197609   64 avr.  11 11:12 _version.py
+-rw-r--r-- 1 pr409 197609 3,3K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 contrib
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 packages
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 util
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3/contrib:
+total 96K
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 appengine.py
+-rw-r--r-- 1 pr409 197609 4,5K avr.  11 11:12 ntlmpool.py
+-rw-r--r-- 1 pr409 197609  17K avr.  11 11:12 pyopenssl.py
+-rw-r--r-- 1 pr409 197609  34K avr.  11 11:12 securetransport.py
+-rw-r--r-- 1 pr409 197609 7,0K avr.  11 11:12 socks.py
+-rw-r--r-- 1 pr409 197609  957 avr.  11 11:12 _appengine_environ.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 _securetransport
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport:
+total 40K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 18K avr.  11 11:12 bindings.py
+-rw-r--r-- 1 pr409 197609 14K avr.  11 11:12 low_level.py
+-rw-r--r-- 1 pr409 197609   0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3/packages:
+total 40K
+-rw-r--r-- 1 pr409 197609 34K avr.  11 11:12 six.py
+-rw-r--r-- 1 pr409 197609   0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 backports
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports:
+total 12K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 makefile.py
+-rw-r--r-- 1 pr409 197609 5,3K avr.  11 11:12 weakref_finalize.py
+-rw-r--r-- 1 pr409 197609    0 avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/pip/_vendor/urllib3/util:
+total 129K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 4,8K avr.  11 11:12 connection.py
+-rw-r--r-- 1 pr409 197609 1,6K avr.  11 11:12 proxy.py
+-rw-r--r-- 1 pr409 197609  498 avr.  11 11:12 queue.py
+-rw-r--r-- 1 pr409 197609 4,0K avr.  11 11:12 request.py
+-rw-r--r-- 1 pr409 197609 3,5K avr.  11 11:12 response.py
+-rw-r--r-- 1 pr409 197609  22K avr.  11 11:12 retry.py
+-rw-r--r-- 1 pr409 197609 6,8K avr.  11 11:12 ssltransport.py
+-rw-r--r-- 1 pr409 197609  17K avr.  11 11:12 ssl_.py
+-rw-r--r-- 1 pr409 197609 5,7K avr.  11 11:12 ssl_match_hostname.py
+-rw-r--r-- 1 pr409 197609  10K avr.  11 11:12 timeout.py
+-rw-r--r-- 1 pr409 197609  14K avr.  11 11:12 url.py
+-rw-r--r-- 1 pr409 197609 5,3K avr.  11 11:12 wait.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 1,2K avr.  11 11:12 __init__.py
+
+./.venv/Lib/site-packages/pip/_vendor/webencodings:
+total 52K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 8,8K avr.  11 11:12 labels.py
+-rw-r--r-- 1 pr409 197609 1,3K avr.  11 11:12 mklabels.py
+-rw-r--r-- 1 pr409 197609 6,5K avr.  11 11:12 tests.py
+-rw-r--r-- 1 pr409 197609 4,3K avr.  11 11:12 x_user_defined.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609  11K avr.  11 11:12 __init__.py
+
+./.venv/Lib/site-packages/pip-23.2.1.dist-info:
+total 108K
+-rw-r--r-- 1 pr409 197609 9,9K avr.  11 11:12 AUTHORS.txt
+-rw-r--r-- 1 pr409 197609  125 avr.  11 11:12 entry_points.txt
+-rw-r--r-- 1 pr409 197609    5 avr.  11 11:12 INSTALLER
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 LICENSE.txt
+-rw-r--r-- 1 pr409 197609 4,2K avr.  11 11:12 METADATA
+-rw-r--r-- 1 pr409 197609  71K avr.  11 11:12 RECORD
+-rw-r--r-- 1 pr409 197609    4 avr.  11 11:12 top_level.txt
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609   92 avr.  11 11:12 WHEEL
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+
+./.venv/Lib/site-packages/__pycache__:
+total 8,0K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 2,8K avr.  11 11:12 _virtualenv.cpython-310.pyc
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./.venv/Lib/site-packages/_distutils_hack:
+total 13K
+-rw-r--r-- 1 pr409 197609   44 avr.  11 11:12 override.py
+-rw-r--r-- 1 pr409 197609 6,2K avr.  11 11:12 __init__.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 __pycache__
+
+./.venv/Lib/site-packages/_distutils_hack/__pycache__:
+total 8,0K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rw-r--r-- 1 pr409 197609 7,5K avr.  11 11:12 __init__.cpython-310.pyc
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./.venv/Scripts:
+total 1,4M
+-rwxr-xr-x 1 pr409 197609 252K avr.  11 11:12 pythonw.exe
+-rwxr-xr-x 1 pr409 197609 263K avr.  11 11:12 python.exe
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 ..
+-rwxr-xr-x 1 pr409 197609 106K avr.  11 11:12 wheel3.exe
+-rwxr-xr-x 1 pr409 197609 106K avr.  11 11:12 wheel3.10.exe
+-rwxr-xr-x 1 pr409 197609 106K avr.  11 11:12 wheel-3.10.exe
+-rwxr-xr-x 1 pr409 197609 106K avr.  11 11:12 wheel.exe
+-rwxr-xr-x 1 pr409 197609 106K avr.  11 11:12 pip3.10.exe
+-rwxr-xr-x 1 pr409 197609 106K avr.  11 11:12 pip3.exe
+-rwxr-xr-x 1 pr409 197609 106K avr.  11 11:12 pip.exe
+-rwxr-xr-x 1 pr409 197609 106K avr.  11 11:12 pip-3.10.exe
+-rw-r--r-- 1 pr409 197609 2,3K avr.  11 11:12 activate
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 11:12 activate.bat
+-rw-r--r-- 1 pr409 197609  537 avr.  11 11:12 deactivate.bat
+-rw-r--r-- 1 pr409 197609   24 avr.  11 11:12 pydoc.bat
+-rw-r--r-- 1 pr409 197609 3,1K avr.  11 11:12 activate.fish
+-rw-r--r-- 1 pr409 197609 2,8K avr.  11 11:12 activate.nu
+-rw-r--r-- 1 pr409 197609 1,7K avr.  11 11:12 activate.ps1
+-rw-r--r-- 1 pr409 197609 1,4K avr.  11 11:12 activate_this.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+
+./bin:
+total 4,0K
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:39 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:51 ..
+
+./lib:
+total 4,0K
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:39 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:51 ..
+
+./doc:
+total 4,0K
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:39 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:51 ..
+
+./viewer:
+total 4,0K
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:40 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:51 ..
+
+./OOP-core:
+total 33K
+-rw-r--r-- 1 pr409 197609 13K avr.  11 11:16 OOP-core-concept-20250411.json
+-rw-r--r-- 1 pr409 197609   0 avr.  11 11:16 OOP-inheritance-2024.json
+-rw-r--r-- 1 pr409 197609 148 avr.  11 14:18 README.md
+drwxr-xr-x 1 pr409 197609   0 avr.  11 14:18 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 15:09 history
+drwxr-xr-x 1 pr409 197609   0 avr.  11 15:53 claude-ai
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:51 ..
+
+./OOP-core/history:
+total 65K
+-rwxr-xr-x 1 pr409 197609  18K avr.  11 11:14 Système d'indexation dynamique des tags.py
+drwxr-xr-x 1 pr409 197609    0 avr.  11 14:18 ..
+-rwxr-xr-x 1 pr409 197609 8,5K avr.  11 14:35 create_document.py
+-rw-r--r-- 1 pr409 197609 2,2K avr.  11 14:55 create_document.md
+-rwxr-xr-x 1 pr409 197609 3,0K avr.  11 14:56 simple_script.py.jinja
+-rw-r--r-- 1 pr409 197609  604 avr.  11 14:58 Structure du système de templates.md
+-rw-r--r-- 1 pr409 197609 3,3K avr.  11 14:59 Révision du Concept de Base OOP.json
+-rw-r--r-- 1 pr409 197609  301 avr.  11 15:02 Révision du Concept de Base OOP.md
+-rw-r--r-- 1 pr409 197609 6,1K avr.  11 15:07 structure de header.md
+drwxr-xr-x 1 pr409 197609    0 avr.  11 15:09 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 15:30 a7919f44-7441-4dd1-bf2b-86f1d32c883b
+
+./OOP-core/history/a7919f44-7441-4dd1-bf2b-86f1d32c883b:
+total 112K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 15:09 ..
+-rw-r--r-- 1 pr409 197609 107K avr.  11 15:30 README.md
+drwxr-xr-x 1 pr409 197609    0 avr.  11 15:30 .
+
+./OOP-core/claude-ai:
+total 46M
+-rw-r--r-- 1 pr409 197609  198 avr.  11 11:24 package.json
+drwxr-xr-x 1 pr409 197609    0 avr.  11 14:18 ..
+-rw-r--r-- 1 pr409 197609  174 avr.  11 15:52 users.json
+-rw-r--r-- 1 pr409 197609 1,1M avr.  11 15:52 projects.json
+drwxr-xr-x 1 pr409 197609    0 avr.  11 15:53 history
+drwxr-xr-x 1 pr409 197609    0 avr.  11 15:53 .
+-rw-r--r-- 1 pr409 197609  45M avr.  11 15:58 conversations.json
+
+./OOP-core/claude-ai/history:
+total 50M
+-rw-r--r-- 1 pr409 197609 1,1M avr.  11 10:52 projects-001.json
+-rw-r--r-- 1 pr409 197609  174 avr.  11 11:01 users-001.json
+drwxr-xr-x 1 pr409 197609    0 avr.  11 15:53 ..
+drwxr-xr-x 1 pr409 197609    0 avr.  11 15:53 .
+-rw-r--r-- 1 pr409 197609  49M avr.  11 15:59 conversations-001.json
+
+./.git:
+total 30K
+-rw-r--r-- 1 pr409 197609   73 avr.  11 11:12 description
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 hooks
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 info
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:47 logs
+drwxr-xr-x 1 pr409 197609    0 avr.  11 12:19 refs
+-rw-r--r-- 1 pr409 197609  229 avr.  11 12:34 FETCH_HEAD
+-rw-r--r-- 1 pr409 197609   41 avr.  11 12:34 ORIG_HEAD
+-rw-r--r-- 1 pr409 197609   21 avr.  11 16:11 HEAD
+-rw-r--r-- 1 pr409 197609  310 avr.  11 16:14 config
+-rw-r--r-- 1 pr409 197609 3,1K avr.  11 16:17 index
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 objects
+-rw-r--r-- 1 pr409 197609    5 avr.  11 16:18 COMMIT_EDITMSG
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:25 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:51 ..
+
+./.git/hooks:
+total 57K
+-rwxr-xr-x 1 pr409 197609  478 avr.  11 11:12 applypatch-msg.sample
+-rwxr-xr-x 1 pr409 197609  896 avr.  11 11:12 commit-msg.sample
+-rwxr-xr-x 1 pr409 197609 4,7K avr.  11 11:12 fsmonitor-watchman.sample
+-rwxr-xr-x 1 pr409 197609  189 avr.  11 11:12 post-update.sample
+-rwxr-xr-x 1 pr409 197609  424 avr.  11 11:12 pre-applypatch.sample
+-rwxr-xr-x 1 pr409 197609 1,7K avr.  11 11:12 pre-commit.sample
+-rwxr-xr-x 1 pr409 197609  416 avr.  11 11:12 pre-merge-commit.sample
+-rwxr-xr-x 1 pr409 197609 1,4K avr.  11 11:12 pre-push.sample
+-rwxr-xr-x 1 pr409 197609 4,8K avr.  11 11:12 pre-rebase.sample
+-rwxr-xr-x 1 pr409 197609  544 avr.  11 11:12 pre-receive.sample
+-rwxr-xr-x 1 pr409 197609 1,5K avr.  11 11:12 prepare-commit-msg.sample
+-rwxr-xr-x 1 pr409 197609 2,8K avr.  11 11:12 push-to-checkout.sample
+-rwxr-xr-x 1 pr409 197609 2,3K avr.  11 11:12 sendemail-validate.sample
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+-rwxr-xr-x 1 pr409 197609 3,6K avr.  11 11:12 update.sample
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:25 ..
+
+./.git/info:
+total 5,0K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 240 avr.  11 11:12 exclude
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:25 ..
+
+./.git/logs:
+total 8,0K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:47 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 12:32 refs
+-rw-r--r-- 1 pr409 197609 1,5K avr.  11 16:17 HEAD
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:25 ..
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:47 ..
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:19 remotes
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:32 heads
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:32 .
+
+./.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:19 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:32 ..
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:11 origin
+
+./.git/logs/refs/remotes/origin:
+total 2,0K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 12:19 ..
+-rw-r--r-- 1 pr409 197609 143 avr.  11 12:34 HEAD
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:11 .
+-rw-r--r-- 1 pr409 197609 460 avr.  11 16:18 main
+
+./.git/logs/refs/heads:
+total 4,0K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 12:32 ..
+drwxr-xr-x 1 pr409 197609    0 avr.  11 12:32 .
+-rw-r--r-- 1 pr409 197609 1,1K avr.  11 16:17 main
+
+./.git/refs:
+total 4,0K
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 tags
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:19 remotes
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:19 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:17 heads
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:25 ..
+
+./.git/refs/tags:
+total 0
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:19 ..
+
+./.git/refs/remotes:
+total 0
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:19 ..
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:19 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:18 origin
+
+./.git/refs/remotes/origin:
+total 2,0K
+drwxr-xr-x 1 pr409 197609  0 avr.  11 12:19 ..
+-rw-r--r-- 1 pr409 197609 30 avr.  11 12:34 HEAD
+-rw-r--r-- 1 pr409 197609 41 avr.  11 16:18 main
+drwxr-xr-x 1 pr409 197609  0 avr.  11 16:18 .
+
+./.git/refs/heads:
+total 1,0K
+drwxr-xr-x 1 pr409 197609  0 avr.  11 12:19 ..
+-rw-r--r-- 1 pr409 197609 41 avr.  11 16:17 main
+drwxr-xr-x 1 pr409 197609  0 avr.  11 16:17 .
+
+./.git/objects:
+total 16K
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 pack
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 info
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 10
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 5f
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 63
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 e6
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:46 0a
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:47 98
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:47 7e
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:47 20
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:47 97
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:47 94
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:47 68
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:47 34
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:47 a1
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:58 45
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:58 26
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:58 86
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:58 08
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:58 fa
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:58 69
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:58 1c
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:58 9c
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:58 80
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:34 bf
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:34 b5
+drwxr-xr-x 1 pr409 197609 0 avr.  11 12:34 fc
+drwxr-xr-x 1 pr409 197609 0 avr.  11 14:26 54
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 da
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 9d
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 93
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 49
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 6f
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 bd
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 46
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 b9
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 ac
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 2f
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 e5
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 db
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 b0
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 0b
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 39
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 29
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 b2
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 d6
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 5b
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 78
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 03
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 fb
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 ab
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 14
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:00 d8
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:17 48
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:17 3a
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:17 21
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:17 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:25 ..
+
+./.git/objects/pack:
+total 8,0K
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:17 ..
+
+./.git/objects/info:
+total 8,0K
+drwxr-xr-x 1 pr409 197609 0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609 0 avr.  11 16:17 ..
+
+./.git/objects/10:
+total 9,0K
+-r--r--r-- 1 pr409 197609 142 avr.  11 11:12 5ce2da2d6447d11dfe32bfb846c3d5b199fc99
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/5f:
+total 9,0K
+-r--r--r-- 1 pr409 197609 188 avr.  11 11:12 4323085d7cc941759b7afa0b6af11d1aeaa1d7
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/63:
+total 12K
+-r--r--r-- 1 pr409 197609 1,1K avr.  11 11:12 c03a4b0abd1778d73f989e6827a40c54bc5bcc
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/e6:
+total 9,0K
+drwxr-xr-x 1 pr409 197609  0 avr.  11 11:12 .
+-r--r--r-- 1 pr409 197609 15 avr.  11 15:22 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+drwxr-xr-x 1 pr409 197609  0 avr.  11 16:17 ..
+
+./.git/objects/0a:
+total 9,0K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:46 .
+-r--r--r-- 1 pr409 197609 150 avr.  11 11:47 f51180103c015e826f9bf8194c7ac700d35961
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/98:
+total 12K
+-r--r--r-- 1 pr409 197609 1,6K avr.  11 11:47 bc46c70e58d04ac5a0db031d362f73d15c795e
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:47 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/7e:
+total 13M
+-r--r--r-- 1 pr409 197609 13M avr.  11 11:47 0188c5ff5e84faca63d3fa0e5299d96e42488b
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:47 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/20:
+total 9,0K
+-r--r--r-- 1 pr409 197609 352 avr.  11 11:47 a033ab9212e826f91eabd0ea1069dd2fd63a08
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:47 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/97:
+total 9,0K
+-r--r--r-- 1 pr409 197609 66 avr.  11 11:47 824ec9b0149e48c91dce4fee530335b327c686
+drwxr-xr-x 1 pr409 197609  0 avr.  11 11:47 .
+drwxr-xr-x 1 pr409 197609  0 avr.  11 16:17 ..
+
+./.git/objects/94:
+total 10K
+-r--r--r-- 1 pr409 197609 155 avr.  11 11:12 a25f7f4cb416c083d265558da75d457237d671
+-r--r--r-- 1 pr409 197609 197 avr.  11 11:47 eb0fc0ae621485e8ea941ee8db5fd1bb8ecb0b
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:47 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/68:
+total 9,0K
+-r--r--r-- 1 pr409 197609 63 avr.  11 11:47 e5d401870ba9f087bd69ca16d6f69fb685246f
+drwxr-xr-x 1 pr409 197609  0 avr.  11 11:47 .
+drwxr-xr-x 1 pr409 197609  0 avr.  11 16:17 ..
+
+./.git/objects/34:
+total 9,0K
+-r--r--r-- 1 pr409 197609 149 avr.  11 11:47 b003c0d9710b11e8e3213f3d5b4c4258f30b35
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:47 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/a1:
+total 9,0K
+-r--r--r-- 1 pr409 197609 117 avr.  11 11:47 abd8cef2e7f71467a29b129fae4d75f206df50
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:47 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/45:
+total 9,0K
+-r--r--r-- 1 pr409 197609 147 avr.  11 11:58 1ce7882241200fbe8e47e4e36336c63267f5ff
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:58 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/26:
+total 380K
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:58 .
+-r--r--r-- 1 pr409 197609 372K avr.  11 16:00 c9cf458dab0d481989a70afed05691d69f7e8f
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/86:
+total 9,0K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:58 .
+-r--r--r-- 1 pr409 197609 155 avr.  11 16:00 145ad6059fbc9d9b575e6b2f6c0127d0a12b5f
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/08:
+total 16K
+-r--r--r-- 1 pr409 197609 4,5K avr.  11 11:58 125ea293a7f634887d2798d582eedd5af68044
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:58 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/fa:
+total 10K
+-r--r--r-- 1 pr409 197609 145 avr.  11 11:47 79615c24fc541a996ffd5a682a80efb7773b09
+-r--r--r-- 1 pr409 197609 225 avr.  11 11:58 36b1e0821ee7293ef00e98f46894cb22a3274b
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:58 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/69:
+total 9,0K
+-r--r--r-- 1 pr409 197609 87 avr.  11 11:58 743244a7e937a6e002e17f6b30b74e00600de4
+drwxr-xr-x 1 pr409 197609  0 avr.  11 11:58 .
+drwxr-xr-x 1 pr409 197609  0 avr.  11 16:17 ..
+
+./.git/objects/1c:
+total 9,0K
+-r--r--r-- 1 pr409 197609 179 avr.  11 11:58 47396a83b4af06264e8c4e905e049191348ec9
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:58 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/9c:
+total 9,0K
+-r--r--r-- 1 pr409 197609 116 avr.  11 11:58 2243fc6699c97410f47f5d8e50f7c7c64281d9
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:58 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/80:
+total 9,0K
+-r--r--r-- 1 pr409 197609 190 avr.  11 11:58 324221aa3163d818d97ca582478078cbefe437
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:58 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/bf:
+total 12K
+-r--r--r-- 1 pr409 197609 785 avr.  11 12:34 839e707afa1716cc5e45c48bb0bcdca8b094e0
+drwxr-xr-x 1 pr409 197609   0 avr.  11 12:34 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/b5:
+total 12K
+-r--r--r-- 1 pr409 197609 658 avr.  11 12:34 700a44d71cc2ddb9ac5def3d4bb5835f733d4f
+drwxr-xr-x 1 pr409 197609   0 avr.  11 12:34 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/fc:
+total 9,0K
+-r--r--r-- 1 pr409 197609 33 avr.  11 12:34 5d8b98a16bb3f61fc39793bafa17455dd83792
+drwxr-xr-x 1 pr409 197609  0 avr.  11 12:34 .
+drwxr-xr-x 1 pr409 197609  0 avr.  11 16:17 ..
+
+./.git/objects/54:
+total 9,0K
+-r--r--r-- 1 pr409 197609 323 avr.  11 14:26 f657bb0972cd4d4bf69ad88524d3055b9da03b
+drwxr-xr-x 1 pr409 197609   0 avr.  11 14:26 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/da:
+total 12K
+-r--r--r-- 1 pr409 197609 2,3K avr.  11 16:00 987fae7d129391c93adaa22d9676759eac3089
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/9d:
+total 13M
+-r--r--r-- 1 pr409 197609 13M avr.  11 16:00 69f73b9e1f8d92f0cb4b287132aedda834450c
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/93:
+total 381K
+-r--r--r-- 1 pr409 197609  156 avr.  11 11:58 4b01ee16ffcae08e6dbc583b328cdf1d143a67
+-r--r--r-- 1 pr409 197609 372K avr.  11 16:00 35e862239381403a9cf4f7848492c8e4a13fa8
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/49:
+total 12K
+-r--r--r-- 1 pr409 197609 1,3K avr.  11 16:00 18be6c6c2d34a13939826ccd0f895e9069a49e
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/6f:
+total 9,0K
+-r--r--r-- 1 pr409 197609 218 avr.  11 16:00 d1b1924eafe8962629e8b1ba1c43a37b2532b2
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/bd:
+total 9,0K
+-r--r--r-- 1 pr409 197609 223 avr.  11 16:00 bbb30b2dcc6a09b6002cb8b095cefe20392d71
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/46:
+total 44K
+-r--r--r-- 1 pr409 197609 33K avr.  11 16:00 4de8efdbdc6a0eb4b8c25366998ec59cb02b44
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/b9:
+total 12K
+-r--r--r-- 1 pr409 197609 978 avr.  11 16:00 764161000d5ce76d479d87778a5790e3c9ad74
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/ac:
+total 12K
+-r--r--r-- 1 pr409 197609 2,8K avr.  11 16:00 37eae45d58064bc84895caa533c8758a8ec09d
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/2f:
+total 13K
+-r--r--r-- 1 pr409 197609  266 avr.  11 11:12 23abee5dd036c4071437cb68af2764036cd836
+-r--r--r-- 1 pr409 197609 1,1K avr.  11 16:00 c054ae980dec67ba4d04e371ad5f86410a66d1
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/e5:
+total 12K
+-r--r--r-- 1 pr409 197609 2,5K avr.  11 16:00 212b1889b24f1e84cf0e3f57eb4824b4570462
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/db:
+total 12K
+-r--r--r-- 1 pr409 197609 2,2K avr.  11 16:00 755c9544e7eed63c5372843672c1a5b2540520
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/b0:
+total 12K
+-r--r--r-- 1 pr409 197609 1,3K avr.  11 16:00 cf9ae92de5c7eba9cd4dc7fe85a820f494ed7c
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/0b:
+total 10K
+-r--r--r-- 1 pr409 197609 141 avr.  11 16:00 4fddb1936eca264fd1a712c068eeaf70cf4839
+-r--r--r-- 1 pr409 197609 225 avr.  11 16:00 ec7852543db771dc0095aa60a3da0f175db926
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/39:
+total 9,0K
+-r--r--r-- 1 pr409 197609 156 avr.  11 16:00 6cddb9f2fe0174d5bc63f60a454c2a1f5a14d8
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/29:
+total 9,0K
+-r--r--r-- 1 pr409 197609 54 avr.  11 16:00 b3b1d502dcb9d10cacd40a6fdd47e1b52e6572
+drwxr-xr-x 1 pr409 197609  0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609  0 avr.  11 16:17 ..
+
+./.git/objects/b2:
+total 9,0K
+-r--r--r-- 1 pr409 197609 430 avr.  11 16:00 e95742d9e0bbb2b92541a8b12ed38ef57ab95a
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/d6:
+total 9,0K
+-r--r--r-- 1 pr409 197609 213 avr.  11 16:00 fb602926660e62d92cf020e1b641c8726fe8d8
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/5b:
+total 9,0K
+-r--r--r-- 1 pr409 197609 199 avr.  11 16:00 1d479eb5d0fe947b35ee12b10bf01f73fbfbcf
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/78:
+total 9,0K
+-r--r--r-- 1 pr409 197609 190 avr.  11 16:00 95600eb60a8ed128d29d08c2add4d38571ad6f
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/03:
+total 13M
+-r--r--r-- 1 pr409 197609 13M avr.  11 16:00 8c1ad84551a29eac318d8b6697b5033afed92a
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/fb:
+total 9,0K
+-r--r--r-- 1 pr409 197609 129 avr.  11 16:00 9841466c88bec2967b92185e2eff839db4b0af
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/ab:
+total 9,0K
+-r--r--r-- 1 pr409 197609 213 avr.  11 16:00 4f94c595fc2b3c9fdfe547b4d99b294db16ba4
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/14:
+total 9,0K
+-r--r--r-- 1 pr409 197609 199 avr.  11 16:00 c7fe7b82ad078899b4093167c88aa2ea5444c6
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/d8:
+total 13K
+-r--r--r-- 1 pr409 197609 3,9K avr.  11 11:47 a96fee6b72b8c322d1af159a147d2205d39164
+-r--r--r-- 1 pr409 197609  189 avr.  11 16:00 cd1f8f54e53f06bca0b71e3c8168ccdae15dd9
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:00 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/48:
+total 9,0K
+-r--r--r-- 1 pr409 197609 225 avr.  11 16:17 d98d9e88ffd1b4fd4bd25c2d73b3aad360b152
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.git/objects/3a:
+total 18K
+-r--r--r-- 1 pr409 197609  191 avr.  11 16:00 0e3f4f87250f2fbb988e856e84b3a0c50c82aa
+-r--r--r-- 1 pr409 197609 2,3K avr.  11 16:17 b9d3b65438b9c946b89465d26fe300f7296768
+-r--r--r-- 1 pr409 197609  199 avr.  11 16:17 c787a6866225e04cf01c8c222684182f1cf690
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:17 ..
+
+./.git/objects/21:
+total 10K
+-r--r--r-- 1 pr409 197609  85 avr.  11 12:34 f989d1ffc84bfce848aba533dafebfb6be5cf2
+-r--r--r-- 1 pr409 197609 190 avr.  11 16:17 4b05c795899ddade6f62b2e7c80c80bd21b3ff
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 .
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:17 ..
+
+./.idea:
+total 20K
+-rw-r--r-- 1 pr409 197609  412 avr.  11 11:12 PythonProject.iml
+-rw-r--r-- 1 pr409 197609  285 avr.  11 11:12 modules.xml
+drwxr-xr-x 1 pr409 197609    0 avr.  11 11:12 inspectionProfiles
+-rw-r--r-- 1 pr409 197609  185 avr.  11 11:12 vcs.xml
+-rw-r--r-- 1 pr409 197609  184 avr.  11 11:46 misc.xml
+-rw-r--r-- 1 pr409 197609 7,3K avr.  11 16:42 workspace.xml
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:42 .
+drwxr-xr-x 1 pr409 197609    0 avr.  11 16:51 ..
+
+./.idea/inspectionProfiles:
+total 5,0K
+drwxr-xr-x 1 pr409 197609   0 avr.  11 11:12 .
+-rw-r--r-- 1 pr409 197609 174 avr.  11 11:12 profiles_settings.xml
+drwxr-xr-x 1 pr409 197609   0 avr.  11 16:42 ..
